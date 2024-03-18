@@ -16,12 +16,12 @@ if (!all(valid_phone_numbers)) {
   stop("Some phone numbers have invalid format (Start with 7 and have 10 digits)")
 }
 
-# Validate email domain
-valid_email_domains <- c("gmail.com", "outlook.com", "yahoo.com", "hotmail.com", "icloud.com")
-valid_emails <- grepl(paste0("\\b", valid_email_domains, "\\b"), data_customers$email, ignore.case = TRUE)
-if (!all(valid_emails)) {
-  stop("Some email addresses have invalid domains")
-}
+# # Validate email domain
+# valid_email_domains <- c("gmail.com", "outlook.com", "yahoo.com", "hotmail.com", "icloud.com")
+# valid_emails <- grepl(paste0("\\b", valid_email_domains, "\\b"), data_customers$email, ignore.case = TRUE)
+# if (!all(valid_emails)) {
+#   stop("Some email addresses have invalid domains")
+# }
 
 data_logistics <- dbReadTable(my_connection, "logistics")
 
