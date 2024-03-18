@@ -45,11 +45,11 @@ if (missing_values_products > 0) {
   stop("There are missing values in the products data")
 }
 
-data_products_categories <- dbReadTable(my_connection, "products_categories")
+data_products_categories <- dbReadTable(my_connection, "product_categories")
 # Check for missing values in categories
 missing_values_categories <- sum(is.na(data_categories))
 if (missing_values_categories > 0) {
-  stop("There are missing values in the products categories data")
+  stop("There are missing values in the product categories data")
 }
 
 data_reviews <- dbReadTable(my_connection, "reviews")
