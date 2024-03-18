@@ -18,7 +18,7 @@ if (!all(valid_phone_numbers)) {
 
 # Validate email domain
 valid_email_domains <- c("gmail.com", "outlook.com", "yahoo.com", "hotmail.com", "icloud.com")
-valid_emails <- grepl(paste0("\\b", valid_email_domains, "\\b"), data_customers$email, ignore.case = TRUE)  # Match whole domain (case-insensitive)
+valid_emails <- grepl(paste0("\\b", valid_email_domains, "\\b"), data_customers$email, ignore.case = TRUE)
 if (!all(valid_emails)) {
   stop("Some email addresses have invalid domains")
 }
