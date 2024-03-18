@@ -32,12 +32,12 @@ jobs:
         run: |
           git config --global user.email "tomasp.dieguez@gmail.com"
           git config --global user.name "TomasPDD"
-          git add --all database/
+          git add .
       - name: Commit files
         run: |
           git commit -m "Updated database"
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
-            github_token: ${{ secrets.group_assigment_7 }}
+            github_token: ${{ secrets.GITHUB_TOKEN }}
             branch: main
