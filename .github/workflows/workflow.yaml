@@ -28,6 +28,9 @@ jobs:
         run: |
           Rscript R/load_data.R
         continue-on-error: true
+      - name: Execute data validation
+        run: |
+          Rscript R/validation.R
       - name: Add files
         run: |
           git config --global user.email "tomasp.dieguez@gmail.com"
