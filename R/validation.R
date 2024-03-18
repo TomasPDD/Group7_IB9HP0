@@ -16,13 +16,6 @@ if (!all(valid_phone_numbers)) {
   stop("Some phone numbers have invalid format (Start with 7 and have 10 digits)")
 }
 
-# # Validate email domain
-# valid_email_domains <- c("gmail.com", "outlook.com", "yahoo.com", "hotmail.com", "icloud.com")
-# valid_emails <- grepl(paste0("\\b", valid_email_domains, "\\b"), data_customers$email, ignore.case = TRUE)
-# if (!all(valid_emails)) {
-#   stop("Some email addresses have invalid domains")
-# }
-
 data_logistics <- dbReadTable(my_connection, "logistics")
 
 # Check for missing values in logistics
@@ -37,6 +30,14 @@ missing_values_orders <- sum(is.na(data_orders))
 if (missing_values_orders > 0) {
   stop("There are missing values in the order data")
 }
+
+data_payment <- dbReadTable(my_connection, "payments")
+# Check for missing values in payments
+missing_values_payment <- sum(is.na(data_payment))
+if (missing_values_payment > 0) {
+  stop("There are missing values in the payments data")
+}
+
 
 data_products <- dbReadTable(my_connection, "products")
 # Check for missing values in products
@@ -66,11 +67,11 @@ if (missing_values_suppliers > 0) {
   stop("There are missing values in suppliers data")
 }
 
-# data_supplies <- dbReadTable(my_connection, "supplies")
-# # Check for missing values in supplies
-# missing_values_supplies <- sum(is.na(data_supplies))
-# if (missing_values_supplies > 0) {
-#   stop("There are missing values in supplies data")
-# }
+data_supplies <- dbReadTable(my_connection, "supplies")
+# Check for missing values in supplies
+missing_values_supplies <- sum(is.na(data_supplies))
+if (missing_values_supplies > 0) {
+  stop("There are missing values in supplies data")
+}
 
 
