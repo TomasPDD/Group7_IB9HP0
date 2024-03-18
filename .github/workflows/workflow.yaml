@@ -40,5 +40,5 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
-          github_token: ${{ secrets.group_assigment }}
+          github_token: ${{ secrets.group_assigment_7 }}
           branch: main  # Only push if intended (consider separate workflow)
