@@ -1,1001 +1,1001 @@
-"supplier_id","product_id","status","tracking_id"
-31,641,"In Transit",5455
-15,266,"In Transit",1896
-14,681,"In Transit",7760
-3,425,"Delivered",7792
-42,39,"Delivered",172
-50,242,"Delivered",1888
-43,876,"Out for Delivery",1360
-37,504,"Out for Delivery",7851
-14,215,"Delivered",2180
-25,902,"Out for Delivery",5786
-26,928,"In Transit",8889
-27,103,"In Transit",5710
-5,957,"In Transit",470
-27,592,"Out for Delivery",3023
-28,858,"In Transit",1963
-9,400,"In Transit",7348
-29,2,"Delivered",8275
-35,674,"Delivered",8288
-8,78,"Out for Delivery",9349
-26,158,"In Transit",9874
-7,156,"Delivered",8838
-42,981,"Delivered",3059
-9,215,"Delivered",4815
-19,698,"In Transit",3762
-36,286,"Out for Delivery",3032
-14,729,"Delivered",6522
-17,423,"Delivered",6078
-43,326,"In Transit",8710
-39,964,"Delivered",2280
-12,707,"Delivered",3899
-15,430,"In Transit",5525
-32,699,"In Transit",281
-42,115,"In Transit",9321
-45,750,"Out for Delivery",4886
-7,560,"In Transit",5118
-9,650,"Delivered",1750
-41,540,"In Transit",1074
-10,716,"In Transit",2084
-23,754,"Delivered",5289
-27,835,"Delivered",2360
-7,385,"In Transit",671
-27,44,"Out for Delivery",7248
-32,433,"In Transit",1802
-38,161,"In Transit",7396
-25,164,"Out for Delivery",5259
-34,115,"Out for Delivery",834
-29,909,"Delivered",6898
-5,882,"Out for Delivery",7965
-8,335,"Out for Delivery",7807
-12,77,"Delivered",2527
-13,174,"Out for Delivery",4356
-18,606,"In Transit",8365
-33,631,"In Transit",3855
-27,658,"In Transit",5298
-25,876,"Delivered",1988
-38,434,"Out for Delivery",1746
-21,615,"Delivered",4113
-15,282,"Delivered",6891
-41,420,"Out for Delivery",5103
-47,804,"Out for Delivery",1620
-26,56,"Out for Delivery",4927
-31,825,"In Transit",7056
-16,515,"Delivered",287
-30,217,"Delivered",3066
-6,523,"Delivered",3909
-43,51,"Delivered",1364
-8,926,"Out for Delivery",6656
-22,784,"Out for Delivery",2434
-22,879,"In Transit",4453
-39,11,"Out for Delivery",9859
-31,230,"Delivered",8313
-48,352,"In Transit",4484
-17,223,"Delivered",7230
-50,613,"Out for Delivery",2963
-49,962,"Delivered",6469
-34,918,"Out for Delivery",1042
-4,145,"In Transit",3214
-13,645,"In Transit",8137
-5,627,"In Transit",7902
-25,335,"Out for Delivery",1720
-22,243,"In Transit",5003
-25,608,"Out for Delivery",9140
-32,318,"In Transit",3622
-46,419,"Delivered",1217
-25,603,"In Transit",5958
-23,918,"Delivered",252
-35,447,"Delivered",4868
-40,601,"Out for Delivery",6004
-48,143,"Out for Delivery",7934
-30,635,"Out for Delivery",302
-12,291,"Delivered",964
-31,542,"In Transit",2416
-46,162,"In Transit",7413
-30,581,"Delivered",9780
-35,965,"In Transit",6023
-14,967,"In Transit",6471
-29,130,"In Transit",727
-32,208,"Out for Delivery",3696
-7,488,"In Transit",9123
-3,535,"Out for Delivery",5545
-23,471,"Delivered",4525
-15,728,"In Transit",2936
-21,789,"Delivered",242
-37,978,"In Transit",4382
-8,275,"Delivered",639
-10,905,"Delivered",3327
-50,723,"Out for Delivery",7425
-42,958,"In Transit",3837
-44,211,"Delivered",574
-34,197,"Delivered",9962
-10,685,"In Transit",4909
-22,720,"Out for Delivery",2665
-12,487,"Out for Delivery",2661
-20,872,"Out for Delivery",7395
-46,544,"Delivered",489
-17,48,"Delivered",7284
-46,783,"Delivered",1161
-35,666,"In Transit",3078
-40,916,"Out for Delivery",8554
-46,35,"Out for Delivery",187
-30,567,"In Transit",6603
-15,415,"In Transit",6624
-24,893,"In Transit",4996
-49,152,"Out for Delivery",8715
-23,529,"Delivered",5516
-43,327,"Delivered",5209
-7,441,"Delivered",1627
-29,845,"Delivered",5520
-15,419,"In Transit",8981
-23,186,"In Transit",799
-26,950,"Delivered",2466
-38,781,"In Transit",4754
-46,974,"In Transit",3007
-32,836,"In Transit",9385
-7,639,"Delivered",9710
-27,537,"Delivered",3618
-42,29,"Out for Delivery",2751
-5,693,"Delivered",5979
-6,528,"Out for Delivery",260
-16,681,"Out for Delivery",8542
-24,240,"Out for Delivery",6517
-32,9,"Out for Delivery",5836
-21,293,"Delivered",1010
-11,310,"Out for Delivery",3290
-36,726,"Delivered",8864
-44,750,"Out for Delivery",7645
-46,748,"In Transit",8922
-19,470,"In Transit",5084
-25,536,"Delivered",735
-39,782,"In Transit",7691
-26,158,"Out for Delivery",527
-9,621,"Out for Delivery",1274
-7,702,"Out for Delivery",9628
-34,628,"In Transit",8062
-48,367,"Delivered",5438
-13,808,"Delivered",1723
-19,223,"Out for Delivery",5019
-47,887,"Out for Delivery",2487
-39,679,"Out for Delivery",7188
-4,229,"Delivered",7378
-1,72,"In Transit",4723
-40,239,"Out for Delivery",1494
-30,782,"Delivered",6897
-30,432,"In Transit",5275
-25,321,"Delivered",8399
-16,151,"Delivered",3907
-24,26,"Out for Delivery",5
-11,46,"Delivered",6674
-48,535,"Delivered",5560
-20,223,"Out for Delivery",1994
-40,703,"In Transit",5029
-3,917,"In Transit",451
-29,337,"Delivered",8104
-36,256,"In Transit",3957
-44,39,"Delivered",5203
-22,327,"Delivered",8507
-49,45,"Out for Delivery",1631
-42,303,"Delivered",5137
-20,332,"In Transit",5072
-11,96,"In Transit",8809
-8,686,"In Transit",5774
-46,467,"Delivered",139
-21,828,"In Transit",54
-45,83,"Out for Delivery",2181
-2,857,"In Transit",6443
-43,401,"Out for Delivery",1551
-13,649,"In Transit",718
-46,621,"Out for Delivery",2833
-6,382,"Out for Delivery",6727
-8,878,"Out for Delivery",3009
-44,919,"Delivered",1402
-32,159,"Delivered",9106
-36,678,"Out for Delivery",3139
-45,289,"Out for Delivery",3593
-14,848,"Out for Delivery",9905
-16,828,"Delivered",1199
-23,584,"In Transit",8932
-33,645,"Delivered",8306
-40,831,"In Transit",4762
-40,202,"Out for Delivery",8931
-10,937,"Delivered",6388
-25,348,"Out for Delivery",6572
-8,549,"Out for Delivery",1869
-18,430,"In Transit",2002
-9,83,"Out for Delivery",4203
-7,993,"Delivered",6600
-7,144,"Out for Delivery",7162
-10,6,"Delivered",9552
-24,764,"Delivered",4757
-23,180,"Out for Delivery",3570
-26,712,"In Transit",5428
-43,89,"In Transit",6138
-33,462,"Out for Delivery",3749
-29,95,"Delivered",2887
-10,814,"Out for Delivery",9247
-13,857,"In Transit",9085
-43,264,"Delivered",543
-11,171,"In Transit",4530
-25,887,"In Transit",1258
-26,756,"Delivered",2320
-7,792,"In Transit",523
-25,5,"Out for Delivery",649
-23,142,"Delivered",2457
-26,993,"Delivered",1088
-32,449,"Delivered",162
-20,869,"Delivered",1564
-24,355,"Delivered",6893
-9,4,"Out for Delivery",9209
-41,35,"In Transit",7813
-37,238,"Delivered",7896
-23,210,"Out for Delivery",7796
-14,778,"In Transit",1736
-46,524,"In Transit",131
-6,640,"Delivered",3390
-27,432,"Out for Delivery",6414
-1,771,"Out for Delivery",7631
-26,282,"Out for Delivery",4547
-42,204,"Out for Delivery",3666
-49,956,"Out for Delivery",3045
-17,229,"In Transit",5965
-29,45,"Delivered",5422
-26,264,"Delivered",9586
-27,913,"Delivered",3642
-21,901,"Out for Delivery",8483
-7,339,"Delivered",5280
-26,358,"Out for Delivery",8989
-41,32,"In Transit",6007
-20,258,"In Transit",1043
-6,145,"Delivered",2898
-50,887,"Delivered",1604
-30,817,"Delivered",3313
-31,712,"Out for Delivery",8043
-29,819,"In Transit",8509
-17,914,"In Transit",8782
-37,922,"In Transit",7338
-20,798,"In Transit",6702
-35,211,"In Transit",8351
-25,69,"Out for Delivery",7673
-46,349,"In Transit",1203
-33,477,"Out for Delivery",2421
-2,558,"Out for Delivery",6058
-4,524,"Delivered",3219
-10,312,"In Transit",9391
-33,1,"Delivered",8401
-5,944,"Delivered",3304
-25,862,"In Transit",3449
-8,638,"Out for Delivery",3178
-25,498,"Delivered",5809
-21,52,"Out for Delivery",4931
-45,519,"In Transit",8024
-18,197,"Delivered",7490
-42,394,"Out for Delivery",6544
-31,292,"In Transit",4080
-6,768,"Delivered",7258
-7,392,"In Transit",6446
-41,255,"Out for Delivery",6947
-48,49,"Out for Delivery",5668
-17,479,"In Transit",1089
-45,69,"Delivered",6129
-28,679,"In Transit",9062
-40,918,"Delivered",7677
-7,332,"Out for Delivery",5322
-20,394,"Delivered",5335
-18,702,"Delivered",8946
-29,221,"Delivered",2813
-17,990,"In Transit",4702
-33,380,"In Transit",2581
-2,705,"In Transit",2468
-49,303,"In Transit",9548
-2,142,"Out for Delivery",55
-13,71,"Out for Delivery",1280
-24,703,"In Transit",3079
-49,674,"In Transit",1557
-3,458,"Out for Delivery",8795
-18,373,"In Transit",819
-2,719,"Delivered",6108
-37,765,"Out for Delivery",9659
-12,403,"In Transit",3346
-13,978,"In Transit",910
-42,622,"Out for Delivery",3814
-6,768,"In Transit",3445
-42,918,"Delivered",986
-42,786,"Delivered",6246
-38,435,"In Transit",3760
-48,894,"Delivered",6955
-16,835,"In Transit",6941
-35,363,"Delivered",7831
-36,564,"Delivered",9211
-27,703,"Out for Delivery",2809
-27,165,"Out for Delivery",8636
-35,366,"Out for Delivery",666
-23,18,"Delivered",7569
-3,681,"Delivered",6076
-31,321,"Delivered",9130
-48,807,"In Transit",6753
-2,783,"Delivered",4568
-47,689,"Out for Delivery",6904
-23,966,"In Transit",9718
-3,865,"Delivered",8354
-9,870,"In Transit",4565
-39,424,"Delivered",1962
-30,458,"Delivered",9035
-31,828,"In Transit",9693
-30,930,"In Transit",1468
-9,346,"In Transit",1358
-36,530,"In Transit",8324
-34,453,"Delivered",5881
-22,956,"Out for Delivery",7194
-44,35,"In Transit",3180
-41,198,"Out for Delivery",9892
-28,989,"In Transit",125
-29,54,"Delivered",2385
-43,683,"In Transit",3082
-39,764,"In Transit",5754
-45,73,"Out for Delivery",3386
-37,278,"Out for Delivery",8257
-43,20,"In Transit",5006
-33,175,"Delivered",9925
-19,990,"Delivered",333
-12,114,"Delivered",5711
-34,999,"In Transit",8116
-21,681,"Delivered",9148
-17,398,"In Transit",6996
-12,541,"Out for Delivery",9876
-30,779,"In Transit",7189
-35,956,"Out for Delivery",2035
-30,20,"In Transit",3436
-25,465,"Delivered",6567
-50,236,"Out for Delivery",8491
-47,984,"Out for Delivery",2594
-3,179,"Out for Delivery",2403
-18,857,"Delivered",3171
-32,269,"Delivered",4613
-17,76,"Out for Delivery",3887
-38,902,"Delivered",5858
-42,835,"Out for Delivery",3090
-40,92,"Delivered",3363
-42,428,"In Transit",2422
-32,492,"Delivered",6365
-26,267,"In Transit",4695
-13,19,"In Transit",9674
-20,11,"Out for Delivery",8146
-38,63,"In Transit",3690
-20,356,"In Transit",4663
-29,406,"Out for Delivery",5320
-20,907,"In Transit",9810
-30,155,"Delivered",5638
-41,258,"Out for Delivery",1193
-48,999,"Out for Delivery",6783
-8,252,"Delivered",398
-39,390,"Out for Delivery",5453
-10,743,"In Transit",999
-17,228,"Delivered",9481
-18,823,"Delivered",3798
-40,506,"In Transit",9833
-42,48,"In Transit",8098
-11,382,"Delivered",1612
-49,767,"In Transit",4905
-44,668,"In Transit",5257
-2,797,"In Transit",3154
-19,196,"Delivered",905
-13,681,"Out for Delivery",7272
-13,389,"In Transit",7897
-31,624,"In Transit",4220
-30,95,"Delivered",490
-22,251,"In Transit",482
-30,619,"In Transit",7138
-10,880,"In Transit",2490
-16,137,"In Transit",706
-5,339,"In Transit",9492
-36,156,"Out for Delivery",614
-50,783,"Delivered",1380
-33,572,"Delivered",6402
-16,715,"In Transit",528
-28,221,"In Transit",788
-49,17,"Delivered",7233
-12,445,"Out for Delivery",3473
-28,553,"In Transit",8184
-2,537,"Delivered",8562
-50,239,"Out for Delivery",777
-12,332,"Out for Delivery",8096
-47,510,"Delivered",5864
-6,787,"Out for Delivery",4697
-16,52,"In Transit",9418
-15,711,"In Transit",3058
-19,267,"In Transit",9306
-3,655,"In Transit",1456
-46,201,"In Transit",5630
-33,506,"Out for Delivery",3872
-33,344,"In Transit",7187
-48,339,"Delivered",2944
-11,651,"In Transit",5835
-36,545,"Delivered",79
-44,969,"Out for Delivery",9095
-45,617,"Delivered",9564
-10,791,"In Transit",7555
-42,248,"Delivered",1682
-24,17,"Out for Delivery",8729
-28,650,"In Transit",18
-39,456,"Delivered",5089
-18,530,"Out for Delivery",4467
-17,920,"Delivered",9855
-20,102,"Delivered",3550
-9,857,"Out for Delivery",2692
-11,946,"In Transit",3978
-44,71,"In Transit",7317
-8,359,"In Transit",4260
-50,396,"Out for Delivery",7368
-5,489,"In Transit",5748
-29,80,"Out for Delivery",9799
-50,643,"In Transit",6177
-6,927,"Out for Delivery",5872
-10,227,"Delivered",3234
-26,533,"Delivered",2024
-9,750,"Delivered",8461
-11,830,"In Transit",6243
-6,674,"In Transit",7280
-32,28,"Out for Delivery",32
-12,420,"In Transit",3340
-19,154,"Out for Delivery",772
-27,641,"In Transit",4336
-32,90,"In Transit",6107
-27,277,"In Transit",5427
-30,938,"Out for Delivery",1356
-4,376,"Out for Delivery",1278
-24,981,"Delivered",8560
-28,870,"Delivered",372
-3,633,"Delivered",7513
-46,675,"In Transit",3921
-40,606,"In Transit",7184
-6,12,"Out for Delivery",7398
-36,993,"In Transit",2533
-42,761,"In Transit",9986
-48,492,"In Transit",5440
-30,141,"Out for Delivery",9275
-48,818,"In Transit",8953
-10,960,"In Transit",5264
-25,545,"In Transit",4318
-38,152,"In Transit",4391
-36,9,"Delivered",636
-41,671,"Out for Delivery",4708
-25,352,"Out for Delivery",4682
-4,706,"In Transit",8001
-15,384,"Out for Delivery",2553
-22,287,"Out for Delivery",4014
-49,60,"In Transit",9828
-24,603,"Delivered",331
-39,611,"Delivered",3846
-47,374,"Out for Delivery",2359
-37,737,"Delivered",9757
-46,407,"Out for Delivery",9411
-47,882,"In Transit",2808
-15,933,"In Transit",2780
-16,202,"Delivered",9928
-19,683,"Out for Delivery",2018
-8,659,"Out for Delivery",1841
-31,912,"Delivered",7654
-37,751,"Delivered",6820
-39,167,"Delivered",1272
-48,608,"Out for Delivery",583
-16,752,"In Transit",7359
-9,306,"Out for Delivery",1714
-11,504,"In Transit",2290
-43,915,"Delivered",8464
-30,132,"Delivered",4504
-10,179,"Out for Delivery",707
-34,163,"In Transit",4086
-38,290,"In Transit",5776
-20,925,"In Transit",2082
-46,589,"Delivered",1734
-14,484,"Out for Delivery",7125
-6,468,"Delivered",5675
-18,310,"In Transit",2910
-2,230,"Delivered",7874
-8,323,"In Transit",5012
-11,857,"Out for Delivery",3073
-21,213,"Delivered",7712
-7,309,"Out for Delivery",5612
-23,424,"Delivered",1721
-8,645,"In Transit",5441
-10,261,"Delivered",3314
-37,467,"Delivered",9639
-17,492,"Out for Delivery",1675
-6,862,"Delivered",1309
-40,583,"Delivered",5339
-6,366,"In Transit",754
-47,145,"Delivered",8125
-28,477,"In Transit",4165
-32,256,"Delivered",1198
-49,98,"Out for Delivery",812
-35,529,"Out for Delivery",8775
-28,189,"Delivered",7521
-47,267,"In Transit",4002
-20,270,"In Transit",6885
-1,360,"Delivered",9995
-5,161,"Out for Delivery",8169
-11,674,"In Transit",5168
-47,960,"Delivered",6029
-20,138,"Out for Delivery",1553
-2,738,"Out for Delivery",5998
-48,893,"Out for Delivery",2187
-10,550,"Delivered",4337
-49,205,"Out for Delivery",9930
-7,780,"Delivered",9358
-38,291,"Out for Delivery",8416
-44,104,"In Transit",8448
-36,187,"In Transit",132
-23,33,"In Transit",8049
-34,238,"Out for Delivery",9444
-24,939,"Delivered",8937
-4,118,"Delivered",9616
-29,779,"Delivered",2428
-23,840,"Out for Delivery",6615
-11,593,"Out for Delivery",1548
-33,772,"In Transit",6488
-50,588,"Out for Delivery",3105
-48,303,"Delivered",8107
-3,696,"In Transit",1716
-33,14,"Out for Delivery",5008
-30,563,"Delivered",9945
-34,667,"In Transit",7976
-2,587,"Delivered",9745
-40,433,"Delivered",9118
-20,413,"Delivered",3753
-14,422,"In Transit",362
-25,236,"In Transit",8717
-45,275,"Delivered",3641
-7,277,"Out for Delivery",6836
-40,49,"Delivered",1773
-35,262,"In Transit",7429
-31,325,"In Transit",2691
-22,753,"In Transit",8069
-16,216,"In Transit",109
-22,254,"In Transit",9478
-29,144,"Delivered",4289
-33,457,"Delivered",2122
-44,875,"Delivered",7026
-50,741,"Delivered",3737
-31,846,"Out for Delivery",6187
-46,639,"Delivered",5586
-8,702,"Delivered",9359
-24,69,"In Transit",551
-30,120,"In Transit",2435
-23,30,"Out for Delivery",1880
-37,830,"In Transit",5949
-32,941,"Delivered",5395
-17,628,"Out for Delivery",9637
-26,580,"In Transit",822
-43,580,"Delivered",4359
-23,96,"In Transit",8048
-26,604,"In Transit",2744
-36,469,"Delivered",116
-45,692,"Delivered",4900
-8,70,"Out for Delivery",8219
-15,810,"In Transit",2239
-36,276,"Delivered",1417
-45,763,"Delivered",6213
-3,465,"Out for Delivery",3975
-39,75,"Delivered",2741
-33,296,"Delivered",2081
-38,405,"Delivered",2100
-45,741,"In Transit",7170
-26,736,"Out for Delivery",9067
-28,58,"Delivered",8705
-26,83,"Delivered",5229
-17,299,"Out for Delivery",3487
-23,769,"Delivered",3754
-38,674,"In Transit",9074
-10,76,"In Transit",3844
-45,910,"Delivered",6692
-38,579,"Out for Delivery",2810
-41,816,"Out for Delivery",6204
-8,532,"In Transit",3728
-1,256,"In Transit",1448
-16,602,"In Transit",9981
-2,132,"Delivered",3028
-40,4,"In Transit",2674
-14,730,"In Transit",8619
-12,961,"Delivered",9488
-26,217,"Out for Delivery",6341
-8,765,"Delivered",6924
-41,81,"Out for Delivery",9915
-8,725,"Delivered",6383
-9,548,"Delivered",3522
-33,657,"Delivered",8719
-3,423,"In Transit",8489
-40,249,"Out for Delivery",5449
-2,59,"Delivered",2507
-1,581,"In Transit",8906
-9,733,"Delivered",4330
-7,137,"Delivered",7279
-13,799,"Delivered",6951
-29,198,"In Transit",4771
-20,297,"Delivered",1106
-14,415,"In Transit",3278
-16,547,"Delivered",701
-7,73,"Delivered",3015
-36,817,"Delivered",4767
-45,995,"In Transit",3362
-12,251,"In Transit",9241
-25,934,"Delivered",1227
-27,594,"In Transit",6122
-13,913,"Out for Delivery",7120
-20,333,"Delivered",9972
-10,364,"In Transit",9082
-30,175,"In Transit",9636
-41,605,"In Transit",3463
-12,234,"Delivered",3604
-8,821,"Delivered",5694
-7,272,"Delivered",3285
-15,993,"Out for Delivery",7403
-19,998,"In Transit",8654
-49,143,"Out for Delivery",8372
-43,347,"Out for Delivery",113
-39,150,"Delivered",1381
-23,136,"Delivered",6174
-35,321,"Out for Delivery",206
-6,966,"Delivered",5649
-7,214,"In Transit",4875
-4,198,"Delivered",4937
-10,773,"In Transit",7643
-17,474,"Out for Delivery",2499
-48,521,"In Transit",8628
-8,799,"Out for Delivery",1430
-3,67,"Delivered",3628
-44,425,"In Transit",9054
-46,32,"In Transit",2633
-37,309,"In Transit",3619
-14,23,"In Transit",5512
-28,594,"Delivered",8129
-6,982,"In Transit",4335
-9,314,"Out for Delivery",3339
-33,407,"In Transit",7774
-46,505,"Delivered",8158
-19,115,"Delivered",3224
-37,793,"Delivered",8688
-34,294,"Delivered",3185
-1,542,"In Transit",2033
-28,678,"Out for Delivery",5210
-30,1000,"In Transit",5032
-4,644,"Out for Delivery",3688
-26,502,"Out for Delivery",3669
-11,721,"Delivered",144
-5,884,"Out for Delivery",5723
-36,582,"In Transit",9936
-19,154,"Delivered",3982
-35,39,"In Transit",8607
-33,352,"Delivered",2065
-39,923,"In Transit",3565
-5,638,"Out for Delivery",3540
-23,743,"Delivered",8974
-41,958,"Out for Delivery",5856
-25,331,"Delivered",1151
-49,661,"Out for Delivery",541
-21,353,"Out for Delivery",1883
-5,627,"Out for Delivery",3838
-12,328,"Delivered",7261
-2,17,"Out for Delivery",1162
-18,380,"Out for Delivery",948
-4,862,"Delivered",5218
-42,846,"Delivered",3839
-47,408,"Delivered",4228
-23,135,"Out for Delivery",3119
-8,195,"Delivered",1860
-1,929,"In Transit",1676
-11,728,"Out for Delivery",5917
-37,207,"Out for Delivery",1202
-11,475,"Out for Delivery",715
-15,280,"Delivered",6631
-15,599,"In Transit",6875
-42,889,"In Transit",2078
-15,46,"Delivered",2058
-15,27,"In Transit",3440
-44,396,"Out for Delivery",3906
-41,49,"In Transit",7200
-25,136,"In Transit",690
-36,225,"Delivered",721
-3,854,"In Transit",2536
-7,610,"In Transit",4992
-4,901,"Out for Delivery",1447
-40,890,"Out for Delivery",3790
-37,77,"Delivered",6859
-24,723,"Delivered",858
-38,607,"Delivered",9176
-4,922,"Delivered",4563
-3,20,"Delivered",8495
-11,669,"Out for Delivery",8142
-10,184,"In Transit",3503
-29,246,"Out for Delivery",5490
-23,137,"Delivered",929
-5,720,"Delivered",2463
-24,725,"Out for Delivery",6806
-32,225,"Out for Delivery",8919
-25,255,"Out for Delivery",1694
-11,561,"Out for Delivery",1993
-10,946,"Out for Delivery",8935
-15,554,"Delivered",7751
-31,457,"Delivered",7042
-10,651,"Out for Delivery",9882
-45,577,"Delivered",5933
-24,354,"In Transit",1275
-35,203,"In Transit",2417
-50,473,"Delivered",3040
-10,113,"Out for Delivery",1575
-8,318,"In Transit",2765
-44,974,"Delivered",894
-42,511,"Out for Delivery",9891
-32,242,"Delivered",7981
-39,223,"In Transit",472
-7,526,"Out for Delivery",9796
-38,980,"Out for Delivery",1488
-17,232,"Delivered",9032
-20,856,"Out for Delivery",1091
-33,37,"Delivered",2965
-37,873,"Delivered",3486
-10,605,"Delivered",2349
-45,138,"Out for Delivery",2747
-10,49,"Delivered",3786
-2,564,"Out for Delivery",5124
-15,967,"Delivered",7512
-23,662,"Delivered",8852
-47,684,"In Transit",7083
-40,767,"In Transit",3118
-35,992,"Out for Delivery",7814
-2,779,"Out for Delivery",9141
-6,274,"Delivered",9967
-46,639,"Out for Delivery",3863
-47,140,"Out for Delivery",364
-9,199,"Out for Delivery",3464
-23,899,"Out for Delivery",7663
-25,443,"Out for Delivery",6640
-15,686,"Out for Delivery",5884
-22,850,"Delivered",4049
-48,191,"Delivered",9507
-8,880,"In Transit",898
-29,817,"In Transit",2411
-41,838,"In Transit",161
-21,30,"Delivered",394
-48,198,"In Transit",8915
-9,804,"Delivered",5022
-34,181,"In Transit",58
-41,669,"In Transit",3035
-43,805,"In Transit",8047
-11,189,"In Transit",6034
-4,878,"Out for Delivery",9150
-7,426,"Out for Delivery",8450
-50,1000,"Out for Delivery",5930
-11,182,"Out for Delivery",2144
-33,426,"In Transit",3329
-11,183,"Delivered",224
-38,958,"Delivered",8385
-21,46,"Delivered",9811
-10,413,"Out for Delivery",6184
-50,495,"Delivered",4510
-3,563,"Out for Delivery",1751
-35,544,"In Transit",3018
-34,897,"In Transit",4423
-40,674,"Out for Delivery",4856
-28,719,"Out for Delivery",279
-13,266,"Out for Delivery",3414
-8,837,"In Transit",4782
-2,773,"Delivered",4537
-6,183,"In Transit",6397
-23,465,"Delivered",6046
-17,753,"In Transit",3940
-32,634,"In Transit",3116
-14,626,"Delivered",1862
-7,130,"Out for Delivery",5628
-13,411,"In Transit",2960
-8,255,"Delivered",2991
-38,830,"Delivered",1722
-11,139,"Out for Delivery",7177
-42,832,"Out for Delivery",8897
-17,613,"Delivered",4402
-7,593,"Delivered",1066
-44,959,"In Transit",2961
-19,750,"Out for Delivery",8870
-49,99,"In Transit",532
-40,426,"In Transit",9944
-15,397,"Delivered",5689
-46,448,"In Transit",2758
-14,185,"Out for Delivery",2009
-26,862,"Out for Delivery",1432
-27,287,"Delivered",4403
-17,51,"Out for Delivery",6285
-33,738,"Delivered",7471
-50,892,"Delivered",4194
-18,529,"Out for Delivery",9277
-20,457,"Delivered",9296
-27,627,"Delivered",474
-42,434,"Out for Delivery",3919
-10,329,"Out for Delivery",5929
-9,318,"Delivered",1634
-31,634,"Delivered",3791
-19,187,"Out for Delivery",9278
-50,698,"In Transit",7432
-18,598,"In Transit",8373
-44,943,"Delivered",2279
-44,32,"Delivered",350
-28,102,"In Transit",9681
-21,616,"Out for Delivery",9376
-29,124,"Out for Delivery",7828
-36,450,"Delivered",590
-20,641,"Out for Delivery",9108
-23,402,"Delivered",5442
-42,71,"In Transit",5030
-5,859,"Out for Delivery",7613
-2,583,"Out for Delivery",4828
-18,548,"In Transit",5099
-12,837,"Delivered",5821
-13,587,"Out for Delivery",8861
-43,383,"Delivered",6983
-38,283,"Delivered",359
-18,991,"In Transit",6919
-10,554,"Out for Delivery",4883
-9,587,"Out for Delivery",1322
-35,412,"In Transit",4784
-29,545,"In Transit",6294
-22,891,"Out for Delivery",1884
-19,618,"Delivered",513
-8,544,"Delivered",3564
-45,249,"Delivered",5980
-33,855,"Out for Delivery",4097
-2,597,"Out for Delivery",2356
-43,300,"Delivered",4325
-48,999,"In Transit",1873
-5,190,"Delivered",7169
-21,933,"In Transit",4307
-31,608,"Delivered",578
-36,40,"Delivered",6009
-27,591,"Delivered",7840
-23,736,"Out for Delivery",7551
-3,199,"In Transit",8761
-15,782,"In Transit",938
-42,362,"Delivered",66
-39,952,"In Transit",3796
-7,816,"Out for Delivery",3198
-34,601,"Out for Delivery",1236
-31,259,"Delivered",2413
-18,886,"Out for Delivery",5101
-18,791,"In Transit",2624
-35,587,"In Transit",1215
-40,317,"Out for Delivery",3629
-46,635,"Delivered",6819
-9,351,"In Transit",4966
-15,318,"In Transit",2029
-17,707,"In Transit",5340
-7,904,"In Transit",4638
-30,767,"In Transit",5918
-8,188,"In Transit",1827
-1,987,"Delivered",6646
-9,347,"In Transit",8174
-35,49,"Out for Delivery",9047
-25,857,"Delivered",9422
-2,796,"Delivered",8630
-11,924,"Delivered",8110
-4,374,"Out for Delivery",873
-40,717,"Out for Delivery",2847
-20,975,"In Transit",5660
-11,812,"Delivered",4816
-18,745,"Out for Delivery",3765
-14,947,"In Transit",2070
-3,307,"In Transit",567
-28,543,"Delivered",7709
-3,230,"Out for Delivery",7364
-46,845,"Out for Delivery",9667
-28,937,"In Transit",6158
-29,587,"In Transit",3318
-39,697,"Delivered",4918
-23,558,"Delivered",1133
-15,307,"In Transit",4574
-23,572,"Out for Delivery",4622
-24,830,"In Transit",274
-40,885,"Out for Delivery",2026
-33,823,"In Transit",1972
-37,114,"Delivered",4472
-29,790,"Delivered",7690
-49,920,"Out for Delivery",798
-6,757,"Out for Delivery",4432
-25,12,"Delivered",2317
-42,883,"In Transit",8620
-26,556,"Out for Delivery",1653
-24,474,"Out for Delivery",7320
-44,916,"Out for Delivery",3355
-32,868,"In Transit",1661
-8,829,"Out for Delivery",8074
-16,220,"In Transit",6914
-39,503,"Delivered",326
-32,891,"Delivered",3036
-39,464,"Delivered",173
-1,177,"Out for Delivery",7499
-30,172,"Out for Delivery",8832
-25,322,"Delivered",568
-43,165,"Delivered",1970
-3,275,"In Transit",674
-22,77,"Out for Delivery",9008
-17,103,"Out for Delivery",1342
-20,94,"Delivered",7030
-35,56,"Out for Delivery",5912
-14,389,"In Transit",457
-37,967,"Delivered",9217
-50,144,"Out for Delivery",1344
-24,620,"In Transit",8697
-30,979,"In Transit",4850
-8,102,"Out for Delivery",9821
-20,568,"Out for Delivery",7514
-10,26,"In Transit",4018
-22,492,"In Transit",7651
-50,173,"Delivered",4241
-17,294,"Delivered",4006
-9,522,"In Transit",6240
-35,424,"Out for Delivery",2830
-37,522,"Delivered",9089
-21,38,"Out for Delivery",3322
-16,731,"Delivered",2745
-26,819,"In Transit",8639
-35,925,"Out for Delivery",445
-35,990,"Delivered",2836
-26,215,"Delivered",5935
-13,497,"Out for Delivery",3755
-36,822,"Delivered",6183
-47,853,"Out for Delivery",1465
-25,322,"Delivered",3447
-28,727,"Out for Delivery",6876
-29,448,"In Transit",278
-13,915,"In Transit",7980
-44,659,"Delivered",1406
-21,884,"Delivered",4793
-25,845,"Out for Delivery",5859
-29,33,"Out for Delivery",8273
-20,806,"Out for Delivery",9542
-29,576,"Out for Delivery",8866
-13,165,"Out for Delivery",7334
-13,199,"In Transit",4527
-35,538,"In Transit",1102
-5,977,"Delivered",7607
-13,175,"Delivered",6728
-23,741,"Out for Delivery",1158
-28,805,"Out for Delivery",3252
-44,32,"Delivered",2550
-8,123,"In Transit",5131
-38,557,"Delivered",5497
-24,808,"Out for Delivery",664
-16,755,"In Transit",2391
-11,865,"Delivered",9338
-23,36,"Out for Delivery",4849
-30,184,"Out for Delivery",6788
-32,562,"Delivered",7636
-27,68,"In Transit",6976
-44,552,"Delivered",7695
-48,284,"In Transit",5602
-15,440,"Out for Delivery",8189
-1,341,"In Transit",2571
-44,822,"In Transit",6817
-10,567,"In Transit",5261
-22,633,"In Transit",6657
-42,983,"In Transit",9466
-36,164,"Out for Delivery",1044
-41,978,"Delivered",3041
-25,814,"Out for Delivery",1462
-30,412,"Out for Delivery",1477
-37,351,"Out for Delivery",2496
-27,12,"In Transit",9250
-9,11,"In Transit",1000
-19,216,"Delivered",9556
-35,30,"Out for Delivery",6810
-34,395,"Delivered",5055
-23,766,"Delivered",9529
-12,216,"Out for Delivery",1399
-15,785,"In Transit",4101
-49,919,"In Transit",2021
-35,482,"Out for Delivery",8726
-29,74,"Out for Delivery",6660
-7,310,"Delivered",864
-29,900,"In Transit",9615
-45,582,"Out for Delivery",3567
-46,714,"In Transit",3815
-34,723,"Out for Delivery",6361
-9,614,"Delivered",7768
-47,251,"In Transit",7906
+"tracking_id","supplier_id","product_id","customer_id","status"
+4044,53,68368,319,"Out for Delivery"
+686,74,22300,957,"In Transit"
+6078,10,82735,459,"In Transit"
+5027,54,15917,608,"Delivered"
+6387,74,29348,976,"In Transit"
+9039,4,19410,750,"Delivered"
+7281,49,52622,155,"Out for Delivery"
+9175,55,76813,284,"Out for Delivery"
+4715,64,20117,633,"In Transit"
+151,54,37133,223,"Out for Delivery"
+6810,71,28014,782,"Delivered"
+9830,52,40676,141,"Delivered"
+8174,71,35305,815,"In Transit"
+6911,33,12420,782,"Out for Delivery"
+2208,52,59245,231,"In Transit"
+1029,23,18312,223,"In Transit"
+8518,79,62158,202,"In Transit"
+7448,4,73810,349,"Out for Delivery"
+7735,90,89007,988,"Out for Delivery"
+8011,40,47682,521,"Delivered"
+1956,83,53649,717,"In Transit"
+8172,7,22646,590,"Out for Delivery"
+5358,30,60785,816,"Delivered"
+5884,20,67790,69,"Delivered"
+4093,47,18258,602,"Delivered"
+985,61,72649,205,"Delivered"
+6183,25,56803,846,"Out for Delivery"
+986,45,35648,456,"Out for Delivery"
+4233,63,64891,583,"Out for Delivery"
+9954,88,10531,995,"Delivered"
+1584,12,26161,827,"Delivered"
+4685,12,26161,832,"In Transit"
+7864,3,94427,557,"Delivered"
+9985,53,60049,825,"Delivered"
+4776,67,20266,558,"In Transit"
+6644,19,18831,589,"Out for Delivery"
+10000,32,49841,638,"In Transit"
+8536,95,50632,953,"Delivered"
+7478,24,47970,629,"Delivered"
+2507,81,43858,941,"Out for Delivery"
+195,44,83983,494,"In Transit"
+3124,14,41844,978,"Delivered"
+6678,20,54510,404,"Delivered"
+4650,30,97783,992,"Delivered"
+2132,83,53649,116,"In Transit"
+3464,25,35109,171,"Out for Delivery"
+9518,84,69923,968,"Out for Delivery"
+3949,57,49545,879,"Out for Delivery"
+7757,7,10542,904,"In Transit"
+2758,93,36043,143,"Delivered"
+3833,68,99414,353,"In Transit"
+712,63,52751,277,"Delivered"
+9644,76,87214,178,"Out for Delivery"
+5370,48,62191,361,"In Transit"
+3501,27,51755,748,"Delivered"
+3069,93,64088,849,"Delivered"
+8720,49,30001,493,"Delivered"
+4055,80,65791,880,"In Transit"
+9761,59,87901,698,"Delivered"
+473,34,31810,573,"In Transit"
+6098,99,67634,545,"Out for Delivery"
+1149,66,81078,317,"Delivered"
+2037,15,63635,757,"Out for Delivery"
+2313,59,73884,919,"In Transit"
+7741,16,69124,454,"Out for Delivery"
+8650,99,31644,337,"Delivered"
+1078,41,61216,284,"Out for Delivery"
+5015,51,36888,102,"Delivered"
+5658,42,99432,132,"Delivered"
+6379,11,49370,266,"Out for Delivery"
+1313,40,95829,925,"In Transit"
+185,55,94684,175,"Delivered"
+7933,95,96974,471,"In Transit"
+413,17,73729,514,"Out for Delivery"
+4723,11,89083,732,"Out for Delivery"
+1333,62,85893,903,"Delivered"
+4875,50,37742,850,"In Transit"
+9753,9,30643,41,"Delivered"
+564,51,50126,1,"In Transit"
+8986,45,37350,267,"Delivered"
+9607,34,37057,456,"Delivered"
+3799,83,75901,370,"Delivered"
+9562,47,22538,526,"Out for Delivery"
+4256,82,36891,8,"Out for Delivery"
+3581,79,34197,264,"Delivered"
+3129,15,57487,711,"Delivered"
+6601,52,63231,191,"In Transit"
+4713,21,45849,63,"In Transit"
+8549,87,97705,690,"Out for Delivery"
+279,82,42928,904,"Delivered"
+4366,28,43494,329,"Delivered"
+6790,97,91396,166,"Out for Delivery"
+6491,71,77529,317,"Delivered"
+3201,73,88848,944,"Delivered"
+2266,19,67943,699,"In Transit"
+618,56,39048,362,"Delivered"
+1905,87,24833,549,"Out for Delivery"
+8529,57,93752,56,"Out for Delivery"
+539,64,83403,381,"In Transit"
+9148,53,40317,52,"Delivered"
+3625,11,99232,73,"Delivered"
+6868,85,28817,128,"In Transit"
+3462,62,85893,131,"Delivered"
+5618,97,31039,34,"Out for Delivery"
+6815,7,25040,99,"Out for Delivery"
+7005,99,56124,769,"Out for Delivery"
+6801,11,89083,635,"In Transit"
+3008,94,63917,936,"Delivered"
+9637,55,72125,442,"In Transit"
+6804,89,47424,131,"In Transit"
+2211,65,60887,96,"In Transit"
+2286,14,55074,774,"In Transit"
+5793,79,34197,104,"In Transit"
+7684,37,99840,719,"Out for Delivery"
+2378,66,65116,849,"Delivered"
+5509,60,95791,991,"In Transit"
+4213,39,46521,20,"Out for Delivery"
+9271,72,87392,915,"Out for Delivery"
+9433,51,16383,146,"In Transit"
+7826,55,96122,99,"In Transit"
+1706,74,13338,375,"Delivered"
+7879,53,96837,912,"In Transit"
+9065,9,26198,861,"In Transit"
+8081,58,83363,651,"Delivered"
+8949,95,61892,581,"In Transit"
+988,27,99318,204,"In Transit"
+7989,24,34005,835,"Delivered"
+4807,30,55815,806,"Out for Delivery"
+5588,10,72573,292,"Out for Delivery"
+9426,49,75851,862,"Out for Delivery"
+9617,98,29192,796,"Delivered"
+3809,68,38034,311,"Delivered"
+7426,62,65080,445,"In Transit"
+2225,23,18522,21,"Delivered"
+1165,46,28216,96,"Out for Delivery"
+6083,15,83559,127,"Delivered"
+7634,3,62349,138,"In Transit"
+2213,12,23699,788,"In Transit"
+1612,69,25178,169,"Out for Delivery"
+3853,18,95368,303,"Out for Delivery"
+5565,5,11054,874,"Out for Delivery"
+710,14,63038,542,"Out for Delivery"
+8042,80,66191,178,"Out for Delivery"
+1258,7,22646,331,"Out for Delivery"
+2470,95,70903,284,"In Transit"
+2112,19,22425,82,"Delivered"
+6224,12,72538,763,"In Transit"
+3035,9,26935,194,"Delivered"
+2339,63,21137,21,"Delivered"
+6909,62,96032,741,"Delivered"
+1347,47,60867,613,"Out for Delivery"
+6623,63,32157,244,"Out for Delivery"
+7728,7,40159,954,"In Transit"
+8983,64,85994,695,"Out for Delivery"
+5001,100,95470,147,"In Transit"
+9533,51,36023,911,"Delivered"
+5407,96,99057,220,"Delivered"
+5854,52,40676,88,"In Transit"
+4388,64,83403,226,"Out for Delivery"
+5346,4,69562,170,"Out for Delivery"
+1708,67,93318,309,"Out for Delivery"
+4701,99,59375,724,"Delivered"
+1835,83,32609,998,"In Transit"
+3111,89,71177,247,"Delivered"
+9453,99,37267,837,"In Transit"
+6309,79,22019,146,"Out for Delivery"
+9249,45,36686,731,"Delivered"
+8275,40,68056,809,"Delivered"
+3468,17,32261,735,"In Transit"
+9058,84,65797,587,"In Transit"
+7377,76,94951,861,"Out for Delivery"
+4172,42,17283,65,"Out for Delivery"
+5214,17,73729,7,"In Transit"
+7385,41,41616,46,"Delivered"
+7090,99,31644,488,"Out for Delivery"
+6518,4,69562,163,"Delivered"
+2163,49,25970,497,"In Transit"
+5497,36,16874,13,"Out for Delivery"
+7633,43,13886,336,"Delivered"
+682,94,41450,380,"Out for Delivery"
+9640,90,89007,284,"Delivered"
+7082,48,64034,865,"Out for Delivery"
+1562,32,83286,997,"Out for Delivery"
+6541,39,87469,881,"In Transit"
+3814,62,14355,264,"Delivered"
+9181,46,11547,763,"Out for Delivery"
+4052,36,47224,51,"In Transit"
+8176,26,23238,68,"In Transit"
+5567,97,32720,620,"Out for Delivery"
+1362,57,46289,811,"Out for Delivery"
+2154,47,69897,696,"In Transit"
+3959,92,90604,267,"Out for Delivery"
+6155,48,88736,10,"In Transit"
+4721,50,16062,455,"Delivered"
+386,11,33796,597,"In Transit"
+8333,17,20470,881,"In Transit"
+31,18,49373,960,"Out for Delivery"
+4190,18,49001,942,"In Transit"
+3786,82,42928,117,"Out for Delivery"
+7588,46,57740,203,"Delivered"
+8370,52,40676,514,"Delivered"
+5532,52,45303,77,"Out for Delivery"
+4620,43,65345,571,"Out for Delivery"
+5698,43,77948,125,"In Transit"
+204,43,18619,665,"Out for Delivery"
+3247,93,75844,663,"In Transit"
+2421,71,32583,276,"In Transit"
+7632,47,29060,708,"Delivered"
+2432,22,79492,291,"Delivered"
+5242,30,60785,714,"Delivered"
+7567,8,65246,692,"Delivered"
+2363,38,21116,513,"In Transit"
+259,38,43371,340,"In Transit"
+5985,81,46853,83,"In Transit"
+5409,36,38840,167,"Delivered"
+7216,9,12323,122,"Delivered"
+9547,85,56151,508,"Delivered"
+1325,7,77024,295,"Out for Delivery"
+4106,34,37057,96,"Delivered"
+4266,76,68594,352,"Out for Delivery"
+3352,25,56803,487,"Delivered"
+7516,62,85893,63,"Out for Delivery"
+4071,42,39906,37,"Out for Delivery"
+2450,77,70491,426,"Out for Delivery"
+1233,84,65797,59,"In Transit"
+1673,14,56847,176,"Out for Delivery"
+3467,87,19320,799,"Out for Delivery"
+4357,100,11988,598,"Delivered"
+2589,86,51720,187,"In Transit"
+6470,9,26198,181,"In Transit"
+5194,95,78594,341,"Delivered"
+2330,86,51720,92,"Delivered"
+1609,33,73326,431,"In Transit"
+3339,46,28216,654,"Delivered"
+6007,100,95470,762,"In Transit"
+5382,49,52622,345,"Out for Delivery"
+1760,63,79894,929,"Out for Delivery"
+5339,10,82735,421,"In Transit"
+6840,61,47977,140,"Out for Delivery"
+3424,70,57190,596,"In Transit"
+8859,68,99414,455,"Out for Delivery"
+5086,46,98895,860,"Out for Delivery"
+4548,18,74964,353,"Out for Delivery"
+9048,2,18145,617,"Out for Delivery"
+1948,97,31039,623,"Out for Delivery"
+5699,33,73326,662,"In Transit"
+1960,44,83983,23,"Out for Delivery"
+646,52,59245,122,"Out for Delivery"
+1060,69,74203,471,"Out for Delivery"
+3127,26,84405,763,"In Transit"
+1264,79,84633,215,"Out for Delivery"
+9848,54,87137,489,"Delivered"
+9520,49,25970,532,"Out for Delivery"
+4084,45,35648,364,"In Transit"
+3082,73,63524,522,"Out for Delivery"
+8857,83,95628,707,"Delivered"
+3494,17,13017,393,"In Transit"
+5732,52,78653,283,"Out for Delivery"
+1204,53,69011,843,"In Transit"
+4374,9,96281,359,"Out for Delivery"
+8433,9,21607,785,"Out for Delivery"
+4120,86,51720,836,"In Transit"
+6823,65,87988,763,"In Transit"
+7727,15,12909,860,"Out for Delivery"
+8124,65,88752,63,"Delivered"
+9919,80,66191,124,"Out for Delivery"
+2085,65,62744,223,"In Transit"
+5423,30,49793,673,"Out for Delivery"
+1743,95,53650,555,"In Transit"
+3984,71,91827,481,"Out for Delivery"
+7880,95,32557,862,"In Transit"
+5791,90,89007,23,"In Transit"
+8570,69,25178,357,"Delivered"
+549,42,77376,977,"Out for Delivery"
+5735,79,13177,296,"In Transit"
+9460,26,23238,785,"Delivered"
+2096,69,74203,964,"In Transit"
+4489,47,16077,87,"In Transit"
+3371,64,19820,307,"Delivered"
+9587,83,55268,535,"Out for Delivery"
+4766,83,82454,860,"Delivered"
+5309,89,47424,528,"Delivered"
+8138,53,26150,894,"Out for Delivery"
+8503,23,16396,140,"Out for Delivery"
+6333,92,79728,117,"Delivered"
+1442,28,29697,630,"Delivered"
+5502,92,90383,96,"In Transit"
+2086,76,86013,822,"In Transit"
+9300,39,71261,643,"Delivered"
+319,73,97504,903,"Out for Delivery"
+2894,47,76429,490,"Out for Delivery"
+7570,41,61216,259,"Out for Delivery"
+1666,2,18145,821,"Delivered"
+8312,74,29348,916,"Out for Delivery"
+2760,87,12421,531,"In Transit"
+7499,80,55323,317,"Delivered"
+1557,64,90481,132,"Out for Delivery"
+6585,94,41450,282,"Out for Delivery"
+7367,74,29348,392,"Out for Delivery"
+3571,18,71052,628,"Out for Delivery"
+599,16,58269,945,"Delivered"
+6216,31,53017,826,"Out for Delivery"
+6821,30,63091,911,"In Transit"
+134,61,47977,729,"Out for Delivery"
+4520,11,49370,713,"Out for Delivery"
+6150,92,78643,13,"In Transit"
+3200,89,36350,117,"Out for Delivery"
+9071,75,92442,491,"Out for Delivery"
+8860,45,45894,701,"In Transit"
+5920,11,86145,750,"Delivered"
+8241,42,50242,229,"In Transit"
+5596,16,75667,31,"Delivered"
+3311,63,84342,555,"Out for Delivery"
+7508,10,95705,631,"In Transit"
+193,25,35109,895,"In Transit"
+4399,38,21116,517,"Delivered"
+7042,74,10608,24,"In Transit"
+3696,44,49961,598,"Out for Delivery"
+191,17,94513,225,"In Transit"
+6590,27,51755,758,"Out for Delivery"
+6263,38,88657,866,"In Transit"
+3699,64,87056,932,"In Transit"
+7690,83,56701,187,"Delivered"
+4913,79,78489,934,"Out for Delivery"
+9638,74,29348,325,"Delivered"
+1316,86,48047,603,"In Transit"
+1397,17,30577,317,"Out for Delivery"
+5655,31,17830,19,"In Transit"
+5720,26,23238,780,"Out for Delivery"
+3716,70,21705,33,"Out for Delivery"
+5323,57,17333,458,"Out for Delivery"
+8950,93,75844,31,"Out for Delivery"
+3318,61,15524,804,"In Transit"
+1464,73,97154,458,"Out for Delivery"
+251,87,24833,143,"Out for Delivery"
+2608,52,40676,284,"Out for Delivery"
+8835,9,81286,740,"Delivered"
+2593,98,48930,730,"In Transit"
+9182,97,39465,648,"Out for Delivery"
+2210,34,36807,342,"In Transit"
+5442,96,86803,814,"Out for Delivery"
+6312,53,54218,123,"Delivered"
+6932,30,98258,700,"Out for Delivery"
+6222,25,92321,72,"Out for Delivery"
+665,33,64014,810,"In Transit"
+1517,71,38600,838,"In Transit"
+5544,45,67309,708,"Out for Delivery"
+8637,12,76499,811,"In Transit"
+3043,10,61804,592,"Out for Delivery"
+8287,88,26728,103,"In Transit"
+8571,74,29348,703,"Out for Delivery"
+1366,41,96769,424,"Out for Delivery"
+8812,75,93595,223,"Out for Delivery"
+448,71,38600,485,"Out for Delivery"
+242,34,21798,474,"Delivered"
+7071,45,35648,942,"Delivered"
+7996,82,54141,750,"Delivered"
+7070,82,55060,276,"Delivered"
+407,85,86263,519,"Delivered"
+6373,67,92973,713,"Out for Delivery"
+7392,27,14001,724,"Delivered"
+2833,50,56404,949,"In Transit"
+1498,81,61001,108,"Out for Delivery"
+8185,58,62373,11,"In Transit"
+9657,45,38413,561,"Out for Delivery"
+4314,7,25040,514,"In Transit"
+3556,3,71730,253,"Delivered"
+4744,84,46501,872,"Delivered"
+79,70,38510,29,"Out for Delivery"
+9723,95,11041,215,"Out for Delivery"
+3236,41,44867,677,"Delivered"
+6381,31,53017,341,"Out for Delivery"
+4675,39,87579,30,"In Transit"
+1831,14,37293,436,"Delivered"
+2977,81,85436,134,"In Transit"
+4518,41,50810,703,"Out for Delivery"
+1820,5,31511,311,"In Transit"
+4695,54,37133,992,"Delivered"
+3765,99,37267,931,"In Transit"
+9069,27,74771,244,"In Transit"
+2406,84,92301,27,"In Transit"
+904,88,22723,462,"Delivered"
+4944,71,40454,553,"Delivered"
+4546,43,65345,828,"Out for Delivery"
+9448,4,73810,32,"In Transit"
+9550,84,89428,316,"In Transit"
+4137,6,68556,84,"In Transit"
+3769,53,26150,854,"Out for Delivery"
+8393,33,85561,4,"In Transit"
+52,92,78394,615,"Out for Delivery"
+5345,60,12434,179,"Delivered"
+8872,84,61047,606,"Delivered"
+3842,55,96122,424,"Delivered"
+577,75,73874,422,"Out for Delivery"
+4553,57,33567,162,"Delivered"
+1015,75,73874,18,"In Transit"
+4045,8,58955,598,"Delivered"
+1230,90,92919,359,"Out for Delivery"
+2172,16,68968,291,"Delivered"
+2788,17,57755,798,"Out for Delivery"
+3353,87,93654,515,"Out for Delivery"
+6797,83,72876,237,"In Transit"
+2004,64,94663,840,"In Transit"
+7306,12,83417,841,"Out for Delivery"
+606,43,83684,288,"In Transit"
+7593,41,50810,479,"Delivered"
+7948,14,89138,542,"Out for Delivery"
+3080,15,12909,153,"In Transit"
+839,76,70661,556,"Delivered"
+3239,22,41421,275,"In Transit"
+7423,24,34005,834,"In Transit"
+8791,10,61804,556,"Delivered"
+1658,79,98316,615,"Out for Delivery"
+9123,49,94560,981,"Out for Delivery"
+2950,20,18934,18,"Delivered"
+8263,5,31511,330,"Out for Delivery"
+5892,38,21116,307,"Out for Delivery"
+4042,21,74089,882,"In Transit"
+4016,87,34023,624,"Out for Delivery"
+6920,87,97705,47,"Delivered"
+4972,83,53649,303,"Out for Delivery"
+3509,14,56847,387,"Delivered"
+5870,89,47424,454,"In Transit"
+270,74,56414,688,"Out for Delivery"
+1436,92,17873,183,"Out for Delivery"
+4724,13,42799,630,"In Transit"
+2579,3,78021,940,"Out for Delivery"
+7388,69,23999,287,"In Transit"
+7860,50,47174,687,"Out for Delivery"
+3294,76,94951,436,"Delivered"
+836,60,87635,97,"Out for Delivery"
+602,83,82769,701,"Delivered"
+8523,19,61034,532,"Out for Delivery"
+4997,27,10717,838,"Out for Delivery"
+291,35,83999,435,"Out for Delivery"
+7877,74,71110,1000,"Delivered"
+4925,12,83417,952,"Out for Delivery"
+9111,51,27241,86,"Delivered"
+2777,63,72105,372,"In Transit"
+9663,30,23887,556,"In Transit"
+7729,90,88511,172,"Out for Delivery"
+1365,70,25397,570,"Delivered"
+7488,43,20035,930,"Delivered"
+504,18,71052,582,"Delivered"
+3148,31,17830,74,"Out for Delivery"
+9218,81,61001,874,"Out for Delivery"
+786,4,90499,903,"Out for Delivery"
+1796,23,18312,107,"In Transit"
+7274,25,56803,17,"Out for Delivery"
+855,33,50039,296,"Out for Delivery"
+9288,47,51844,693,"In Transit"
+8641,23,18312,165,"Out for Delivery"
+7032,75,69426,207,"In Transit"
+9739,47,43137,977,"Out for Delivery"
+3128,5,65987,143,"Delivered"
+4303,58,80180,429,"Delivered"
+436,80,54333,817,"Out for Delivery"
+3049,41,29766,337,"Delivered"
+4029,30,55815,149,"In Transit"
+601,96,45317,670,"Out for Delivery"
+8579,79,22019,164,"Delivered"
+3335,54,46181,382,"Out for Delivery"
+3140,47,22538,950,"In Transit"
+2792,1,93891,66,"In Transit"
+6709,8,25834,524,"Out for Delivery"
+5477,70,52044,283,"Out for Delivery"
+742,51,72986,67,"Out for Delivery"
+4619,78,39305,787,"Delivered"
+4682,19,41518,930,"Out for Delivery"
+256,39,68310,536,"In Transit"
+3421,93,75844,164,"Out for Delivery"
+7639,95,55310,411,"In Transit"
+4184,43,50115,846,"In Transit"
+5977,95,70903,40,"Delivered"
+2059,9,12323,177,"In Transit"
+8778,17,20470,85,"In Transit"
+4559,18,95368,190,"In Transit"
+3827,67,48702,150,"Out for Delivery"
+2748,64,92886,994,"Delivered"
+7455,24,63997,629,"In Transit"
+6986,14,63038,727,"Out for Delivery"
+6424,87,11201,664,"Out for Delivery"
+3584,28,42899,549,"Out for Delivery"
+8995,17,57755,867,"Out for Delivery"
+2290,54,49573,101,"In Transit"
+8970,64,94663,548,"In Transit"
+1352,45,35648,557,"In Transit"
+6316,78,37848,443,"Delivered"
+1703,41,41616,768,"Delivered"
+8071,33,12420,630,"Delivered"
+7846,79,78489,432,"In Transit"
+1553,94,63917,845,"Out for Delivery"
+9121,32,49841,644,"In Transit"
+6090,72,64380,191,"In Transit"
+6018,46,11547,528,"Out for Delivery"
+3543,66,62624,234,"In Transit"
+3951,35,32505,376,"Delivered"
+2882,80,38108,702,"Out for Delivery"
+8006,99,35044,407,"Delivered"
+9531,35,92783,288,"Delivered"
+4015,20,67790,791,"Delivered"
+535,18,95368,249,"In Transit"
+8079,47,76429,502,"Delivered"
+9174,10,95705,453,"In Transit"
+4552,22,73953,757,"In Transit"
+3165,96,18384,755,"In Transit"
+7657,27,25849,588,"Delivered"
+789,49,30001,481,"Delivered"
+3017,66,43496,634,"In Transit"
+4578,89,11667,950,"In Transit"
+1272,73,93077,851,"In Transit"
+2153,97,17394,570,"Out for Delivery"
+9387,96,99057,871,"In Transit"
+459,58,58575,763,"Out for Delivery"
+6660,86,27939,232,"In Transit"
+8331,43,43562,528,"Out for Delivery"
+9974,70,98729,428,"In Transit"
+481,45,37350,266,"In Transit"
+9035,25,35109,315,"In Transit"
+5717,86,27939,392,"In Transit"
+4729,56,60312,319,"Delivered"
+9842,77,63487,148,"In Transit"
+4291,24,78601,530,"Out for Delivery"
+5219,93,43444,500,"Out for Delivery"
+9314,87,19320,38,"Out for Delivery"
+9274,53,68368,231,"Out for Delivery"
+7132,16,50883,896,"In Transit"
+1549,4,32927,287,"Delivered"
+6152,76,87214,290,"In Transit"
+6779,31,84159,117,"In Transit"
+6406,86,52245,945,"In Transit"
+2976,34,75648,443,"Delivered"
+4302,99,59375,475,"Out for Delivery"
+5960,72,44255,76,"In Transit"
+3911,55,89827,333,"Out for Delivery"
+1916,34,94003,28,"Delivered"
+2801,69,88149,690,"Out for Delivery"
+5608,64,83403,668,"In Transit"
+9487,21,73638,382,"Delivered"
+4014,69,23999,684,"Out for Delivery"
+4494,62,96032,7,"Delivered"
+5338,17,20470,746,"Out for Delivery"
+3617,83,48352,231,"Delivered"
+2834,68,71475,605,"Delivered"
+8539,83,75901,586,"In Transit"
+7978,34,75648,840,"Delivered"
+3146,34,67604,460,"In Transit"
+9781,50,42673,558,"Delivered"
+3903,28,47982,32,"Delivered"
+5459,46,28216,85,"Out for Delivery"
+1394,26,22870,95,"Delivered"
+9260,77,63487,698,"In Transit"
+860,64,94663,147,"Delivered"
+7701,24,78601,231,"Out for Delivery"
+5028,68,61775,344,"In Transit"
+2583,92,76347,585,"Delivered"
+3626,67,60188,648,"Delivered"
+1733,8,55584,610,"In Transit"
+2508,84,77926,730,"In Transit"
+3691,28,29697,989,"Delivered"
+7859,83,48352,41,"In Transit"
+5094,34,87946,554,"In Transit"
+3338,80,34457,880,"Out for Delivery"
+8905,89,71177,295,"Delivered"
+4061,14,55074,791,"In Transit"
+2518,16,50883,667,"In Transit"
+6483,48,64034,260,"Delivered"
+8392,32,48087,290,"Out for Delivery"
+3309,75,93595,922,"Out for Delivery"
+9185,7,49807,559,"Out for Delivery"
+8450,7,49807,192,"Out for Delivery"
+1404,75,69426,321,"In Transit"
+1963,45,74963,711,"Out for Delivery"
+6910,14,20490,657,"Delivered"
+9328,56,75590,127,"Out for Delivery"
+4565,51,16383,223,"Delivered"
+612,41,61441,427,"In Transit"
+1435,90,89007,420,"Out for Delivery"
+7575,64,92886,228,"In Transit"
+1923,31,27155,166,"Delivered"
+3727,63,21137,852,"Delivered"
+3687,11,94117,60,"Delivered"
+5178,53,26150,17,"Delivered"
+7559,86,51720,704,"Out for Delivery"
+8482,30,97948,361,"Delivered"
+466,85,37994,750,"In Transit"
+8163,25,92321,488,"In Transit"
+2536,56,39048,494,"Delivered"
+3337,41,61216,59,"Delivered"
+7646,46,97381,154,"In Transit"
+1928,88,26728,593,"In Transit"
+6465,4,30315,753,"Delivered"
+4738,97,32720,32,"Out for Delivery"
+5003,52,78653,218,"In Transit"
+9256,32,48087,327,"Out for Delivery"
+3220,30,49793,325,"Delivered"
+950,67,44366,625,"Delivered"
+4163,49,30001,669,"In Transit"
+9070,68,85836,344,"In Transit"
+3804,14,41844,896,"Delivered"
+4479,23,15871,277,"Out for Delivery"
+7719,21,74982,560,"Out for Delivery"
+4247,90,10004,341,"In Transit"
+2639,99,67634,421,"Delivered"
+4567,22,73953,395,"In Transit"
+4440,71,94998,753,"Delivered"
+161,47,29060,186,"Delivered"
+8613,78,39305,480,"Out for Delivery"
+2492,85,26437,727,"In Transit"
+2077,46,57740,523,"Delivered"
+633,5,65987,87,"Out for Delivery"
+5361,98,48930,484,"In Transit"
+4761,76,90746,150,"In Transit"
+8236,18,17119,92,"Delivered"
+8416,67,60188,498,"Out for Delivery"
+5128,64,20117,785,"Delivered"
+9104,63,40528,335,"Delivered"
+6496,74,11273,546,"Out for Delivery"
+1886,85,81966,97,"Out for Delivery"
+7994,26,22870,841,"In Transit"
+4313,85,12959,291,"In Transit"
+683,27,51755,4,"Delivered"
+8248,32,48087,246,"Out for Delivery"
+7779,47,51844,118,"Delivered"
+4750,10,61804,553,"Out for Delivery"
+2423,7,24036,377,"In Transit"
+9792,77,70491,331,"In Transit"
+9950,65,58497,467,"Out for Delivery"
+9736,52,39005,297,"Delivered"
+9650,21,54139,938,"Out for Delivery"
+6161,36,20387,272,"In Transit"
+8841,24,33978,620,"Delivered"
+163,62,14355,525,"In Transit"
+7615,84,65797,408,"In Transit"
+3257,16,58269,854,"Delivered"
+8848,54,15917,380,"Delivered"
+9012,17,69304,461,"Delivered"
+2522,76,16365,943,"Out for Delivery"
+6179,31,58036,759,"In Transit"
+8118,73,88848,772,"Out for Delivery"
+3610,26,22870,712,"In Transit"
+1711,33,85561,894,"Delivered"
+8601,20,54510,906,"Out for Delivery"
+7196,55,49076,383,"Delivered"
+8861,4,87666,37,"In Transit"
+7117,98,26598,786,"Out for Delivery"
+9004,77,60365,78,"Delivered"
+4244,39,87579,102,"In Transit"
+2317,18,74964,761,"Delivered"
+2765,100,50170,150,"Delivered"
+372,95,50632,861,"In Transit"
+517,7,27598,915,"Out for Delivery"
+5176,23,16396,767,"Out for Delivery"
+4173,65,85194,120,"Delivered"
+8663,63,84342,211,"Delivered"
+3420,10,74306,434,"Delivered"
+6270,100,11988,806,"Out for Delivery"
+1446,28,41233,168,"In Transit"
+7320,14,41844,135,"Delivered"
+8912,4,67524,351,"Out for Delivery"
+2647,69,52045,748,"Out for Delivery"
+7131,77,19310,548,"In Transit"
+2028,67,60188,780,"In Transit"
+304,33,70422,625,"Out for Delivery"
+1807,18,49643,138,"Delivered"
+4929,63,72105,744,"In Transit"
+5814,50,37742,700,"Out for Delivery"
+2826,14,89138,650,"Delivered"
+7254,97,31039,975,"Delivered"
+4009,11,94117,330,"Out for Delivery"
+5145,71,35305,605,"Out for Delivery"
+4702,26,84405,331,"In Transit"
+8186,55,15102,242,"Delivered"
+3365,80,55323,884,"Delivered"
+1920,8,65246,940,"In Transit"
+4635,53,54218,317,"In Transit"
+2761,99,59375,637,"Out for Delivery"
+5026,76,87214,54,"Out for Delivery"
+703,79,84633,194,"In Transit"
+4439,88,33330,161,"Out for Delivery"
+76,27,61024,277,"In Transit"
+9423,54,49573,147,"Delivered"
+7601,33,20453,975,"In Transit"
+5411,19,30996,557,"In Transit"
+5085,47,74845,134,"Delivered"
+7534,34,50321,195,"Out for Delivery"
+2082,73,97154,602,"Out for Delivery"
+9597,38,43371,491,"In Transit"
+4297,100,54469,377,"Delivered"
+7983,67,67781,676,"Out for Delivery"
+5761,47,55080,74,"In Transit"
+1705,16,48257,323,"Out for Delivery"
+4338,25,56803,260,"Out for Delivery"
+8044,4,73810,294,"Delivered"
+3576,40,90730,79,"Out for Delivery"
+8070,24,73457,246,"In Transit"
+4000,22,39648,423,"Delivered"
+9319,5,78890,450,"Out for Delivery"
+6736,96,86803,472,"In Transit"
+7002,70,34673,756,"Out for Delivery"
+400,73,97504,369,"Delivered"
+4098,25,86113,13,"Out for Delivery"
+1698,42,41771,831,"Delivered"
+3230,75,92442,95,"Delivered"
+6300,49,20864,408,"Out for Delivery"
+981,81,54806,326,"Out for Delivery"
+4311,22,86444,834,"Delivered"
+1722,39,65155,670,"Out for Delivery"
+6430,52,68788,140,"Out for Delivery"
+7897,65,42861,858,"Out for Delivery"
+3495,81,54806,250,"Out for Delivery"
+1350,79,62158,809,"In Transit"
+5827,24,68908,640,"Delivered"
+4526,39,69055,233,"Out for Delivery"
+1723,63,84342,187,"Delivered"
+2798,95,11041,812,"Out for Delivery"
+5680,26,23238,883,"Out for Delivery"
+3612,32,75822,386,"Delivered"
+4812,93,81598,102,"Out for Delivery"
+8946,28,78505,188,"Delivered"
+6529,32,22761,683,"Delivered"
+6305,32,22761,937,"Out for Delivery"
+7053,67,92973,115,"Out for Delivery"
+1906,35,56225,110,"Delivered"
+335,33,56117,696,"Out for Delivery"
+3149,53,96837,844,"In Transit"
+2222,42,39906,321,"Delivered"
+3678,100,50170,923,"Delivered"
+5751,63,92245,418,"Out for Delivery"
+7020,4,50858,690,"Delivered"
+8807,77,60365,551,"In Transit"
+804,34,87946,156,"Out for Delivery"
+9272,33,21495,325,"In Transit"
+825,17,78715,943,"In Transit"
+4611,34,57785,413,"In Transit"
+5337,86,26374,694,"Delivered"
+7691,43,41321,21,"Delivered"
+2278,23,15111,709,"Out for Delivery"
+8805,1,39744,524,"Out for Delivery"
+2693,64,87056,36,"In Transit"
+9843,20,18934,861,"Delivered"
+2383,74,37648,964,"In Transit"
+1632,93,64788,232,"Delivered"
+318,69,50644,409,"Out for Delivery"
+8611,43,18619,129,"Out for Delivery"
+1627,61,25570,666,"In Transit"
+6038,36,36710,308,"Delivered"
+4239,85,12959,960,"Out for Delivery"
+9758,11,99232,976,"Delivered"
+5701,10,72573,79,"In Transit"
+3202,84,65797,398,"In Transit"
+9751,92,85087,458,"Delivered"
+5848,47,75643,348,"Delivered"
+7443,41,96769,688,"In Transit"
+4819,81,43858,270,"In Transit"
+8126,20,26244,61,"Delivered"
+1235,34,31810,461,"Out for Delivery"
+7365,75,73874,8,"In Transit"
+6864,41,41616,859,"Out for Delivery"
+8679,70,34673,786,"In Transit"
+4968,41,41616,248,"Delivered"
+8736,50,48941,15,"Out for Delivery"
+7834,72,87392,311,"Out for Delivery"
+3988,58,62373,930,"Delivered"
+8344,58,43003,725,"Out for Delivery"
+3399,74,13338,25,"Out for Delivery"
+3491,71,80759,890,"In Transit"
+4046,47,60867,186,"Out for Delivery"
+537,29,39719,715,"Out for Delivery"
+3101,100,65586,1,"Delivered"
+5648,59,73884,54,"Out for Delivery"
+7461,78,20624,205,"In Transit"
+5868,32,48087,552,"Delivered"
+4095,100,95470,328,"Out for Delivery"
+1494,41,61216,786,"Delivered"
+5656,64,64182,423,"Delivered"
+6926,18,74964,728,"Out for Delivery"
+5278,14,56847,685,"In Transit"
+6511,43,18619,335,"Delivered"
+7847,65,81394,872,"Delivered"
+3301,11,66309,90,"In Transit"
+3144,21,74982,592,"Delivered"
+8974,35,32505,536,"In Transit"
+8624,79,81224,624,"Out for Delivery"
+9537,86,29710,172,"Delivered"
+7319,10,74306,864,"In Transit"
+1070,18,49001,336,"Delivered"
+7391,38,65048,683,"Out for Delivery"
+2751,95,72276,197,"Delivered"
+4135,74,29953,132,"In Transit"
+45,92,78643,666,"Out for Delivery"
+1327,20,54510,697,"Delivered"
+6476,57,33567,590,"Out for Delivery"
+7635,19,30996,968,"Out for Delivery"
+4924,96,83597,470,"Delivered"
+3155,38,16950,975,"In Transit"
+5769,17,57755,670,"Delivered"
+7789,52,66177,939,"Delivered"
+3991,52,66177,56,"Out for Delivery"
+1702,55,86593,607,"Out for Delivery"
+7457,7,32093,180,"Delivered"
+9020,61,15524,842,"Out for Delivery"
+4298,68,27848,83,"Out for Delivery"
+9564,18,74964,96,"In Transit"
+6288,4,67524,133,"In Transit"
+5126,87,57781,641,"In Transit"
+764,43,64905,76,"Delivered"
+7348,53,69011,658,"Out for Delivery"
+5832,23,18522,646,"Delivered"
+4185,74,32381,832,"In Transit"
+3167,83,56701,719,"Out for Delivery"
+5384,95,11041,863,"Delivered"
+5291,55,44147,690,"Out for Delivery"
+887,50,50101,984,"Delivered"
+756,27,26490,682,"Out for Delivery"
+4238,85,37994,929,"Out for Delivery"
+4065,5,65987,378,"In Transit"
+9571,75,42177,350,"Delivered"
+3712,31,27155,541,"In Transit"
+5552,41,96769,958,"Out for Delivery"
+6348,31,22928,518,"Out for Delivery"
+6189,72,44255,232,"In Transit"
+1363,84,77926,827,"Delivered"
+8550,64,83403,405,"Out for Delivery"
+914,64,83403,281,"In Transit"
+2970,70,97965,105,"Delivered"
+9427,59,87901,480,"Delivered"
+5469,31,69423,370,"In Transit"
+9774,85,37994,271,"Out for Delivery"
+1,5,58530,72,"Delivered"
+8112,90,92919,790,"In Transit"
+1543,68,99414,726,"In Transit"
+5317,4,50858,933,"Out for Delivery"
+3466,91,46932,828,"Out for Delivery"
+1792,47,60867,50,"In Transit"
+7217,8,34567,520,"Out for Delivery"
+5799,50,34481,372,"Out for Delivery"
+9548,53,69406,468,"Out for Delivery"
+9197,40,18844,36,"In Transit"
+4490,78,74013,169,"Delivered"
+2269,50,12849,75,"Delivered"
+2753,77,70491,312,"Delivered"
+4090,80,35943,671,"Out for Delivery"
+71,73,21389,80,"Out for Delivery"
+7842,44,83983,778,"Out for Delivery"
+9674,96,99057,228,"In Transit"
+6142,19,13947,673,"Delivered"
+7541,36,89119,139,"Out for Delivery"
+1789,46,57740,834,"In Transit"
+2451,97,31039,904,"Delivered"
+7122,60,23451,118,"Out for Delivery"
+1646,71,35305,791,"Out for Delivery"
+1942,3,62349,877,"In Transit"
+435,16,69124,754,"Delivered"
+5483,73,21389,42,"Out for Delivery"
+6847,55,86593,797,"Delivered"
+4089,40,47682,639,"In Transit"
+8357,31,17830,479,"Out for Delivery"
+8558,33,70422,180,"Out for Delivery"
+9234,53,96124,640,"In Transit"
+2855,83,58276,725,"Out for Delivery"
+8975,67,67781,435,"Delivered"
+9905,63,32157,260,"In Transit"
+6086,79,41399,173,"Delivered"
+5101,32,83286,783,"Out for Delivery"
+4961,30,23887,931,"Delivered"
+5990,63,40528,251,"Out for Delivery"
+2876,26,23238,178,"In Transit"
+9122,58,80180,544,"In Transit"
+8181,58,64427,964,"Delivered"
+346,98,16530,722,"Out for Delivery"
+4626,81,15931,492,"Out for Delivery"
+3525,90,10004,17,"In Transit"
+3004,50,42673,747,"In Transit"
+8227,95,96974,202,"Out for Delivery"
+8390,82,55060,507,"Out for Delivery"
+7133,83,55268,596,"Out for Delivery"
+3755,64,85994,831,"In Transit"
+9391,17,65167,912,"Out for Delivery"
+7134,76,89116,287,"In Transit"
+6258,84,77926,612,"Delivered"
+398,44,37523,622,"Delivered"
+1565,12,26855,70,"Delivered"
+3851,63,38783,837,"Delivered"
+956,25,58216,34,"In Transit"
+6609,58,62373,340,"In Transit"
+5356,51,72140,512,"Delivered"
+7148,70,38510,973,"Delivered"
+9395,9,26198,662,"Delivered"
+2905,86,86999,395,"Delivered"
+269,34,21798,386,"Delivered"
+9027,52,59245,357,"Out for Delivery"
+9308,47,22538,413,"Delivered"
+492,78,67478,643,"Out for Delivery"
+7435,96,45317,121,"Out for Delivery"
+3091,88,71339,837,"Delivered"
+7179,97,31039,388,"Out for Delivery"
+5183,92,32106,62,"In Transit"
+1380,18,17119,915,"In Transit"
+2306,66,40462,379,"In Transit"
+8167,17,20470,111,"In Transit"
+9468,89,14391,325,"In Transit"
+6534,12,26161,18,"In Transit"
+1767,70,52044,984,"Delivered"
+6967,39,87469,142,"Out for Delivery"
+8698,16,75667,969,"In Transit"
+1406,3,92993,734,"In Transit"
+7935,70,71654,888,"Delivered"
+4893,74,29953,733,"In Transit"
+2244,73,26924,696,"Delivered"
+6825,19,80381,907,"Out for Delivery"
+2437,47,60867,479,"In Transit"
+1648,2,32998,189,"Out for Delivery"
+9311,4,30315,163,"Out for Delivery"
+2299,75,79382,171,"In Transit"
+9835,55,72125,626,"Out for Delivery"
+9209,21,74089,638,"Out for Delivery"
+2387,27,10717,948,"Delivered"
+7324,71,34949,550,"Out for Delivery"
+3855,30,55815,193,"In Transit"
+2620,9,78498,838,"In Transit"
+1469,95,11041,26,"Delivered"
+8745,76,68594,252,"Delivered"
+7705,85,53605,772,"In Transit"
+2287,47,22538,338,"In Transit"
+2558,34,31810,171,"Delivered"
+5172,91,97037,884,"Out for Delivery"
+2315,17,35011,765,"In Transit"
+1679,82,92102,107,"Out for Delivery"
+6345,5,20249,766,"Delivered"
+651,31,53017,470,"Out for Delivery"
+8182,88,11003,302,"Delivered"
+6689,48,62191,414,"Delivered"
+6089,99,31644,582,"Out for Delivery"
+5576,88,81393,964,"Out for Delivery"
+6246,72,44255,12,"Delivered"
+8114,17,13017,368,"Out for Delivery"
+6215,15,63635,181,"Out for Delivery"
+7564,53,26150,763,"Out for Delivery"
+1513,8,25834,29,"In Transit"
+4176,13,20789,245,"In Transit"
+4739,86,99166,554,"Delivered"
+8095,13,42799,458,"Delivered"
+7395,93,25655,564,"Out for Delivery"
+3822,36,38840,903,"In Transit"
+830,54,37133,327,"Out for Delivery"
+4516,13,18545,1000,"Delivered"
+8346,21,73638,615,"In Transit"
+3713,66,88251,727,"In Transit"
+4186,38,43371,624,"Out for Delivery"
+5397,22,32541,872,"In Transit"
+1962,91,97037,931,"Delivered"
+2060,63,21137,902,"Out for Delivery"
+7929,70,38510,425,"Out for Delivery"
+6636,22,94809,799,"Out for Delivery"
+3213,44,93523,642,"In Transit"
+3890,79,37836,635,"Out for Delivery"
+3743,38,65048,429,"Out for Delivery"
+352,12,26855,888,"Out for Delivery"
+8898,83,68437,242,"Out for Delivery"
+384,75,69426,286,"Out for Delivery"
+4383,97,32720,639,"Out for Delivery"
+2108,64,94663,255,"Out for Delivery"
+4833,16,50883,257,"In Transit"
+2455,76,89116,879,"In Transit"
+8050,22,86444,765,"Out for Delivery"
+9418,53,19264,520,"In Transit"
+9899,51,76236,574,"Out for Delivery"
+1191,22,32541,939,"Delivered"
+9107,78,34465,173,"In Transit"
+6276,40,78116,506,"Delivered"
+9117,97,31039,746,"Out for Delivery"
+9805,72,64380,980,"Out for Delivery"
+6628,30,13837,813,"Out for Delivery"
+1492,31,22928,617,"In Transit"
+323,30,43483,613,"Out for Delivery"
+1448,43,50115,227,"Out for Delivery"
+7429,54,56751,489,"Out for Delivery"
+8659,66,40462,116,"In Transit"
+4588,92,76347,65,"Out for Delivery"
+7751,24,33978,137,"In Transit"
+6289,18,49373,31,"Delivered"
+2304,2,90081,6,"Out for Delivery"
+6242,74,80173,362,"Out for Delivery"
+5649,64,92886,582,"Delivered"
+7357,46,11547,187,"Delivered"
+5387,29,64157,459,"Out for Delivery"
+9486,76,94951,480,"Out for Delivery"
+674,44,85852,900,"Out for Delivery"
+6282,45,67309,254,"Out for Delivery"
+7718,34,36807,523,"Out for Delivery"
+3277,36,95565,396,"Out for Delivery"
+7272,40,90730,89,"Out for Delivery"
+1211,6,53389,603,"In Transit"
+1057,78,74013,400,"In Transit"
+6382,75,69426,789,"In Transit"
+2987,36,13956,251,"In Transit"
+7761,44,49961,799,"Out for Delivery"
+6732,27,14001,146,"Out for Delivery"
+303,55,86593,418,"In Transit"
