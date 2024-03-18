@@ -27,11 +27,11 @@ jobs:
       - name: Execute R script
         run: |
           Rscript R/load_data.R
-      - name: Add files
-        run: |
-          git config --global user.email "tomasp.dieguez@gmail.com"
-          git config --global user.name "TomasPDD"
-          git add --all figures/
+#      - name: Add files
+ #       run: |
+ #         git config --global user.email "tomasp.dieguez@gmail.com"
+  #        git config --global user.name "TomasPDD"
+   #       git add --all figures/
       - name: Commit files
         run: |
           git commit -m "Add regression plot figure"
