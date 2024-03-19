@@ -26,3 +26,4 @@ for (table_name in names(data_tables)) {
 # Close the database connection
 RSQLite::dbDisconnect(my_connection)
 
+print("Initial data loaded successfully.")
