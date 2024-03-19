@@ -3,11 +3,10 @@ library(RSQLite)
 library(dplyr)
 library(ggplot2)
 
-#data visualisation    
-
+#data visualisation
 
 # Connect to the SQLite database
-con <- dbConnect(RSQLite::SQLite(), dbname = "database/database.db")
+con <- dbConnect(RSQLite::SQLite(), dbname = "database/new_database.db")
 
 # SQL query to count old customers 
 query_old_customers <- "SELECT COUNT(*) as count FROM (SELECT customer_id FROM orders GROUP BY customer_id HAVING COUNT(product_id) > 1)"
@@ -162,6 +161,7 @@ plot4 <- ggplot(best_sellers_by_month, aes(x = month, y = sales_count, fill = ca
 
 
 payments$date <- as.Date(payments$date)
+
 
 query1 <- "
 SELECT 

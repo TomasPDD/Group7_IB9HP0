@@ -4,7 +4,7 @@ library(RSQLite)
 
 
 # Connect to the database
-con <- RSQLite::dbConnect(RSQLite::SQLite(), "database/database.db")
+con <- RSQLite::dbConnect(RSQLite::SQLite(), "database/new_database.db")
 
 # Create customers
 customers <- readr::read_csv("data.upload/customer_data.csv")
