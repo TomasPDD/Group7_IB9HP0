@@ -8,7 +8,7 @@ my_connection <- RSQLite::dbConnect(RSQLite::SQLite(), "database/database.db")
 data_tables <- list(
   customers = "data.upload/customer_data.csv",
   logistics = "data.upload/logistics_data.csv",
-  orders = "data.upload/orders_data.csv",
+  orders = "data.upload/order_data.csv",
   payments = "data.upload/payment_data.csv",
   products = "data.upload/product_data.csv",
   product_categories = "data.upload/product_category_data.csv",

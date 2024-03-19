@@ -9,7 +9,7 @@ my_connection <- dbConnect(RSQLite::SQLite(), "database/database.db")
 data_tables <- list(
   customers = c("new.data.upload/customer_data.csv", "customer_id"),  # Identifier column: customer_id
   logistics = c("new.data.upload/logistics_data.csv", "tracking_id"),  # Identifier column: tracking_id
-#  orders = c("new.data.upload/orders_data.csv", "order_id"),  # Identifier column: order_id
+#  orders = c("new.data.upload/order_data.csv", "order_id"),  # Identifier column: order_id
   payments = c("new.data.upload/payment_data.csv", "payment_id"),  # Identifier column: payment_id
   products = c("new.data.upload/product_data.csv","product_id"), # Identifier column: product_id
   product_categories = c("new.data.upload/product_category_data.csv","category_id"), # Identifier column: category_id
