@@ -14,7 +14,7 @@ data_tables <- list(
   products = c("new.data.upload/product_data.csv","product_id"), # Identifier column: product_id
   product_categories = c("new.data.upload/product_category_data.csv","category_id"), # Identifier column: category_id
   reviews = c("new.data.upload/reviews_data.csv","review_id"), # Identifier column: review_id
-  suppliers = c("new.data.upload/supplier_data.csv","supplier_id"), # Identifier column: supplier_id
+  suppliers = c("new.data.upload/supplier_data.csv","supplier_id") # Identifier column: supplier_id
 )
 
 # Loop through each table
