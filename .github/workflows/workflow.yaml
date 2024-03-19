@@ -30,10 +30,10 @@ jobs:
         run: |
           Rscript R/load_data.R
         continue-on-error: true
-      - name: Load new data script
-        run: |
-          Rscript R/load_new_data.R
-        continue-on-error: true
+#      - name: Load new data script
+#        run: |
+#          Rscript R/load_new_data.R
+#        continue-on-error: true
       - name: Execute data analysis
         run: |
           Rscript R/analysis.R
