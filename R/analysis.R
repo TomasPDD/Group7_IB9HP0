@@ -188,9 +188,6 @@ plot5 <- ggplot(monthly_payments, aes(x = month_year, y = total_payment, group =
 plot5 
 
 
-# Convert 'date' to Date format if it's not already
-orders$date <- as.Date(orders$date)
-
 # SQL query to extract month from date and count orders
 query <- "
 SELECT 
