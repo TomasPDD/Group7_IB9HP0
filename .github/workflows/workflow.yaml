@@ -34,9 +34,9 @@ jobs:
         run: |
           Rscript R/load_new_data.R
         continue-on-error: true
-      - name: Execute data validation
+      - name: Execute data analysis
         run: |
-          Rscript R/validation.R
+          Rscript R/analysis.R
         continue-on-error: true
       - name: Add files
         run: |
