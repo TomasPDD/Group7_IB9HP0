@@ -34,15 +34,7 @@ plot1 <- ggplot(pie_data, aes(x = "", y = Count, fill = Category)) +
   geom_text(aes(label = scales::percent(Count / sum(Count))), position = position_stack(vjust = 0.5))
 
 plot1
-# 
-# plot2 <- ggplot(payments_table, aes(x = payment_amount)) +
-#   geom_histogram(bins = 30, fill = "blue", color = "black") +
-#   labs(title = "Distribution of Payment Amounts",
-#        x = "Payment Amount",
-#        y = "Frequency") +
-#   theme_minimal()
-# 
-# plot2
+
 
 # Write your SQL query as a string
 average_scores_per_category_sql <- "
@@ -69,7 +61,7 @@ average_scores_per_category <- dbGetQuery(con, average_scores_per_category_sql)
 
 
 
-plot3 <- ggplot(average_scores_per_category, aes(x = reorder(category_name, average_score), y = average_score, fill = average_score)) +
+plot2 <- ggplot(average_scores_per_category, aes(x = reorder(category_name, average_score), y = average_score, fill = average_score)) +
   geom_col() +
   scale_fill_gradient(low = "blue", high = "red") +
   labs(title = "Average Review Score Per Category",
@@ -78,7 +70,7 @@ plot3 <- ggplot(average_scores_per_category, aes(x = reorder(category_name, aver
   theme_minimal() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
-plot3 
+plot2 
 
 
 
@@ -143,7 +135,7 @@ best_sellers_by_month <- dbGetQuery(con, best_sellers_by_month_sql)
 
 
 # Use the formatted_month directly for plotting as it is already in 'YYYY-MM' format
-plot4 <- ggplot(best_sellers_by_month, aes(x = month, y = sales_count, fill = category_name)) +
+plot3 <- ggplot(best_sellers_by_month, aes(x = month, y = sales_count, fill = category_name)) +
   geom_col() +
   labs(title = "Best-Selling Product Categories by Month",
        x = "Month",
@@ -152,15 +144,7 @@ plot4 <- ggplot(best_sellers_by_month, aes(x = month, y = sales_count, fill = ca
   theme_minimal() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
-
-
-
-
-
-
-
-
-
+plot3
 
 query1 <- "
 SELECT 
@@ -171,6 +155,20 @@ GROUP BY month_year
 "
 # Execute the query and fetch results
 monthly_payments <- dbGetQuery(con, query1)
+
+payment_sql <- "SELECT * FROM payments_table"
+
+# Execute the query and fetch the results
+payments_table <- dbGetQuery(con, payment_sql)
+
+plot4 <- ggplot(payments_table, aes(x = payment_amount)) +
+  geom_histogram(bins = 30, fill = "blue", color = "black") +
+  labs(title = "Distribution of Payment Amounts",
+       x = "Payment Amount",
+       y = "Frequency") +
+  theme_minimal()
+
+plot4
 
 # Plotting the graph
 plot5 <- ggplot(monthly_payments, aes(x = month_year, y = total_payment, group = 1)) +
@@ -216,7 +214,7 @@ plot6 <- ggplot(monthly_orders, aes(x = month, y = number_of_orders)) +
 plot6
 
 ggsave("figures/plot1.png", plot1)
-#ggsave("figures/plot2.png", plot2)
+ggsave("figures/plot2.png", plot2)
 ggsave("figures/plot3.png", plot3)
 ggsave("figures/plot4.png", plot4)
 ggsave("figures/plot5.png", plot5)
