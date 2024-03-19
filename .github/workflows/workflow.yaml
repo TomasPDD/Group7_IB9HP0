@@ -1,6 +1,8 @@
 name: Workflow Group 7
 
 on:
+  schedule:
+    - cron: '0 */3 * * *' # Run every 3 hours
   push:
     branches: [ main ]
 jobs:
@@ -40,7 +42,7 @@ jobs:
         run: |
           git config --global user.email "tomasp.dieguez@gmail.com"
           git config --global user.name "TomasPDD"
-          git add .
+          git add --all figures/
       - name: Commit files
         run: |
           git commit -m "Updated database"
