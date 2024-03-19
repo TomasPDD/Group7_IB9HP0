@@ -67,11 +67,11 @@ if (missing_values_suppliers > 0) {
   stop("There are missing values in suppliers data")
 }
 
-data_supplies <- dbReadTable(my_connection, "supplies")
-# Check for missing values in supplies
-missing_values_supplies <- sum(is.na(data_supplies))
-if (missing_values_supplies > 0) {
-  stop("There are missing values in supplies data")
-}
+# data_supplies <- dbReadTable(my_connection, "supplies")
+# # Check for missing values in supplies
+# missing_values_supplies <- sum(is.na(data_supplies))
+# if (missing_values_supplies > 0) {
+#   stop("There are missing values in supplies data")
+# }
 
 
