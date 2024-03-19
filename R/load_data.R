@@ -1,6 +1,8 @@
 library(readr)
 library(RSQLite)
 
+
+
 # Connect to the database
 con <- RSQLite::dbConnect(RSQLite::SQLite(), "database/database.db")
 
