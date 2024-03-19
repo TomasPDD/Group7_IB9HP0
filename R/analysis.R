@@ -219,6 +219,13 @@ plot6 <- ggplot(monthly_orders, aes(x = month, y = number_of_orders)) +
 
 plot6
 
+ggsave("figures/plot1.png", plot1)
+ggsave("figures/plot2.png", plot2)
+ggsave("figures/plot3.png", plot3)
+ggsave("figures/plot4.png", plot4)
+ggsave("figures/plot5.png", plot5)
+ggsave("figures/plot6.png", plot6)
+
 
 # Disconnect from the database
 RSQLite::dbDisconnect(con)
