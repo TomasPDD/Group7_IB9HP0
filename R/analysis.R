@@ -140,11 +140,12 @@ plot3 <- ggplot(best_sellers_by_month, aes(x = month, y = sales_count, fill = ca
   labs(title = "Best-Selling Product Categories by Month",
        x = "Month",
        y = "Sales Count") +
-  scale_fill_discrete(name = "Category") +
+  scale_fill_brewer(palette = "Set3") +  # Choose a palette from RColorBrewer
   theme_minimal() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
 plot3
+
 
 query1 <- "
 SELECT 
