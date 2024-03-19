@@ -146,7 +146,7 @@ plot3 <- ggplot(best_sellers_by_month, aes(x = month, y = sales_count, fill = ca
 
 plot3
 
-
+#finished
 query1 <- "
 SELECT 
   strftime('%Y-%m',date) AS month_year, 
