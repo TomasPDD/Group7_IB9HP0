@@ -34,15 +34,15 @@ plot1 <- ggplot(pie_data, aes(x = "", y = Count, fill = Category)) +
   geom_text(aes(label = scales::percent(Count / sum(Count))), position = position_stack(vjust = 0.5))
 
 plot1
-
-plot2 <- ggplot(payments, aes(x = payment_amount)) +
-  geom_histogram(bins = 30, fill = "blue", color = "black") +
-  labs(title = "Distribution of Payment Amounts",
-       x = "Payment Amount",
-       y = "Frequency") +
-  theme_minimal()
-
-plot2
+# 
+# plot2 <- ggplot(payments, aes(x = payment_amount)) +
+#   geom_histogram(bins = 30, fill = "blue", color = "black") +
+#   labs(title = "Distribution of Payment Amounts",
+#        x = "Payment Amount",
+#        y = "Frequency") +
+#   theme_minimal()
+# 
+# plot2
 
 # Write your SQL query as a string
 average_scores_per_category_sql <- "
@@ -220,7 +220,7 @@ plot6 <- ggplot(monthly_orders, aes(x = month, y = number_of_orders)) +
 plot6
 
 ggsave("figures/plot1.png", plot1)
-ggsave("figures/plot2.png", plot2)
+#ggsave("figures/plot2.png", plot2)
 ggsave("figures/plot3.png", plot3)
 ggsave("figures/plot4.png", plot4)
 ggsave("figures/plot5.png", plot5)
