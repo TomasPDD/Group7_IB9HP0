@@ -7,6 +7,7 @@ library(ggplot2)
 
 # Connect to the SQLite database
 con <- dbConnect(RSQLite::SQLite(), dbname = "database/new_database.db")
+RSQLite::dbListTables(con)
 
 # SQL query to count old customers 
 query_old_customers <- "SELECT COUNT(*) as count FROM (SELECT customer_id FROM orders GROUP BY customer_id HAVING COUNT(product_id) > 1)"
@@ -34,7 +35,7 @@ plot1 <- ggplot(pie_data, aes(x = "", y = Count, fill = Category)) +
 
 plot1
 # 
-# plot2 <- ggplot(payments, aes(x = payment_amount)) +
+# plot2 <- ggplot(payments_table, aes(x = payment_amount)) +
 #   geom_histogram(bins = 30, fill = "blue", color = "black") +
 #   labs(title = "Distribution of Payment Amounts",
 #        x = "Payment Amount",
@@ -160,14 +161,12 @@ plot4 <- ggplot(best_sellers_by_month, aes(x = month, y = sales_count, fill = ca
 
 
 
-payments$date <- as.Date(payments$date)
-
 
 query1 <- "
 SELECT 
   strftime('%Y-%m',date) AS month_year, 
   SUM(payment_amount) AS total_payment
-FROM payments
+FROM payments_table
 GROUP BY month_year
 "
 # Execute the query and fetch results

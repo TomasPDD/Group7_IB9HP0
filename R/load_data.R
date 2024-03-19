@@ -98,15 +98,15 @@ RSQLite::dbWriteTable(con,"product_categories",product_categories,append=TRUE)
 
 # Create Payments
 payments <- readr::read_csv("data.upload/payment_data.csv")
-dbExecute(con, "DROP TABLE IF EXISTS payments")
-dbExecute(con, "CREATE TABLE payments (
+dbExecute(con, "DROP TABLE IF EXISTS payments_table")
+dbExecute(con, "CREATE TABLE payments_table (
     payment_id INT PRIMARY KEY,
     payment_amount DECIMAL(10, 2),
     date DATE, 
     time TIME
 );")
 
-RSQLite::dbWriteTable(con,"payments",payments,append=TRUE)
+RSQLite::dbWriteTable(con,"payments_table",payments,append=TRUE)
 
 # Create logistics
 logistics <- readr::read_csv("data.upload/logistics_data.csv")
@@ -130,3 +130,4 @@ RSQLite::dbListTables(con)
 RSQLite::dbDisconnect(con)
 
 print("Initial data loaded successfully.")
+
