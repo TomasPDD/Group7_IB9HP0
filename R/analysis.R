@@ -3,6 +3,7 @@ library(RSQLite)
 library(dplyr)
 library(ggplot2)
 #data visualisation    
+#changes
 
 # Connect to the SQLite database
 con <- dbConnect(RSQLite::SQLite(), dbname = "database/database.db")
