@@ -17,6 +17,27 @@ data_tables <- list(
 #  supplies = "data.upload/supplies_data.csv"
 )
 
+# Create the tables first
+for (table_name in names(data_tables)) {
+  tryCatch({
+    RSQLite::dbCreateTable(my_connection, table_name, fields = NULL)
+  }, error = function(err) {
+    cat("Table already exists:", table_name, "\n")
+  })
+}
+
+# Read and write data to the tables (with individual printing)
+for (table_name in names(data_tables)) {
+  csv_file <- data_tables[[table_name]]
+  data <- readr::read_csv(csv_file)
+  RSQLite::dbWriteTable(my_connection, table_name, data, overwrite = TRUE)  # Overwrite existing data
+  
+  # Print the data for this table
+  print(paste("Data for table", table_name))
+  print(data)
+}
+
+# Read and write data to the tables
 for (table_name in names(data_tables)) {
   csv_file <- data_tables[[table_name]]
   data <- readr::read_csv(csv_file)
