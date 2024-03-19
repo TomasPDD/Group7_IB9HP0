@@ -13,7 +13,7 @@ data_tables <- list(
   products = "data.upload/product_data.csv",
   product_categories = "data.upload/product_category_data.csv",
   reviews = "data.upload/reviews_data.csv",
-  suppliers = "data.upload/supplier_data.csv",
+  suppliers = "data.upload/supplier_data.csv"
 #  supplies = "data.upload/supplies_data.csv"
 )
 
