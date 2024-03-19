@@ -2,8 +2,9 @@ library(readr)
 library(RSQLite)
 library(dplyr)
 library(ggplot2)
+
 #data visualisation    
-#changes
+
 
 # Connect to the SQLite database
 con <- dbConnect(RSQLite::SQLite(), dbname = "database/database.db")
@@ -23,7 +24,7 @@ pie_data <- data.frame(
 )
 
 # Create the pie chart
-ggplot(pie_data, aes(x = "", y = Count, fill = Category)) +
+plot1 <- ggplot(pie_data, aes(x = "", y = Count, fill = Category)) +
   geom_bar(width = 1, stat = "identity") +
   coord_polar("y", start = 0) +
   theme_void() +
@@ -32,15 +33,16 @@ ggplot(pie_data, aes(x = "", y = Count, fill = Category)) +
   scale_fill_manual(values = c("Return Customers" = "blue", "Churn Customers" = "red")) +
   geom_text(aes(label = scales::percent(Count / sum(Count))), position = position_stack(vjust = 0.5))
 
+plot1
 
-ggplot(payments, aes(x = payment_amount)) +
+plot2 <- ggplot(payments, aes(x = payment_amount)) +
   geom_histogram(bins = 30, fill = "blue", color = "black") +
   labs(title = "Distribution of Payment Amounts",
        x = "Payment Amount",
        y = "Frequency") +
   theme_minimal()
 
-
+plot2
 
 # Write your SQL query as a string
 average_scores_per_category_sql <- "
@@ -67,7 +69,7 @@ average_scores_per_category <- dbGetQuery(con, average_scores_per_category_sql)
 
 
 
-ggplot(average_scores_per_category, aes(x = reorder(category_name, average_score), y = average_score, fill = average_score)) +
+plot3 <- ggplot(average_scores_per_category, aes(x = reorder(category_name, average_score), y = average_score, fill = average_score)) +
   geom_col() +
   scale_fill_gradient(low = "blue", high = "red") +
   labs(title = "Average Review Score Per Category",
@@ -76,7 +78,7 @@ ggplot(average_scores_per_category, aes(x = reorder(category_name, average_score
   theme_minimal() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
-
+plot3 
 
 
 
@@ -141,7 +143,7 @@ best_sellers_by_month <- dbGetQuery(con, best_sellers_by_month_sql)
 
 
 # Use the formatted_month directly for plotting as it is already in 'YYYY-MM' format
-ggplot(best_sellers_by_month, aes(x = month, y = sales_count, fill = category_name)) +
+plot4 <- ggplot(best_sellers_by_month, aes(x = month, y = sales_count, fill = category_name)) +
   geom_col() +
   labs(title = "Best-Selling Product Categories by Month",
        x = "Month",
@@ -172,7 +174,7 @@ GROUP BY month_year
 monthly_payments <- dbGetQuery(con, query1)
 
 # Plotting the graph
-ggplot(monthly_payments, aes(x = month_year, y = total_payment, group = 1)) +
+plot5 <- ggplot(monthly_payments, aes(x = month_year, y = total_payment, group = 1)) +
   geom_line(color = "#00BFC4") + # Line with a specific color
   geom_point(color = "#F8766D", size = 3) + # Points with a specific color and size
   theme_minimal() + 
@@ -184,7 +186,7 @@ ggplot(monthly_payments, aes(x = month_year, y = total_payment, group = 1)) +
         plot.title = element_text(hjust = 0.5)) # Center the title
 
 
-
+plot5 
 
 
 # Convert 'date' to Date format if it's not already
@@ -208,19 +210,18 @@ monthly_orders <- dbGetQuery(con, query)
 
 
 # Create the plot
-ggplot(monthly_orders, aes(x = month, y = number_of_orders)) +
+plot6 <- ggplot(monthly_orders, aes(x = month, y = number_of_orders)) +
   geom_bar(stat = "identity", fill = "steelblue") +
   theme_minimal() +
   labs(title = "Number of Orders per Month",
        x = "Month",
        y = "Number of Orders")
 
-
+plot6
 
 
 # Disconnect from the database
 RSQLite::dbDisconnect(con)
-
 
 
 
